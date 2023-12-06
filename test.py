@@ -1,4 +1,8 @@
-'''This code creates a DNS server which gets the DNS packets. On receiving a packet, it decodes the packet and looks for question fields. If any question field matches the list of blocked domains, it creates a custom response which sends an "A record pointing to trap IP address". If no entry in question field matches the blocked domains, it sends the DNS request to google's DNS server and returns it's response to the original sender.
+''' 
+This code creates a DNS server that gets the DNS packets. 
+On receiving a packet, it decodes the packet and looks for question fields. 
+If any question field matches the list of blocked domains, it creates a custom response which sends an "A record pointing to trap IP address". 
+If no entry in question field matches the blocked domains, it sends the DNS request to Google's DNS server and returns its response to the original sender.
 '''
 
 import socket
