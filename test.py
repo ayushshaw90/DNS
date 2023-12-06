@@ -2,7 +2,7 @@
 This code creates a DNS server that gets the DNS packets. 
 On receiving a packet, it decodes the packet and looks for question fields. 
 If any question field matches the list of blocked domains, it creates a custom response which sends an "A record pointing to trap IP address". 
-If no entry in question field matches the blocked domains, it sends the DNS request to Google's DNS server and returns its response to the original sender.
+If no entry in question field matches the blocked domains, it sends the DNS request to google's public DNS server and returns its response to the original sender.
 '''
 
 import socket
@@ -11,10 +11,10 @@ import dns
 from dns import message, rdata, query
 
 blacklisted_domains = {
-    'mail.google.com',
+    'tutorialpoint.com',
     'facebook.com',
     'hotmail.com',
-    'www.google.com'
+    'instagram.com'
 }
 
 trap_ip_address = '127.0.0.1'
@@ -30,7 +30,7 @@ def decode_dns_packet(packet):
         # print(qn)
         # print(qn.name.to_text())
         # print(type(qn.name.to_text()))
-        # print(qn.name.to_text()[:-1])
+        print(f"question is {qn.name.to_text()[:-1]}")
         # ----------
         if qn.name.to_text()[:-1] in blacklisted_domains:
             print(f"Found the blacklisted domain {qn.name.to_text()[:-1]}")
@@ -51,6 +51,7 @@ def dns_proxy():
         while True:
             # Receive data and address from the client
             data, client_address = proxy_socket.recvfrom(1024)
+            print(f"client_address is {client_address}")
             # print(data.decode('utf-8'))
             should_it_be_blacklisted, question_name = decode_dns_packet(data)
             dns_message = message.from_wire(data)
