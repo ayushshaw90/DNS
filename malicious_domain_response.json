@@ -1,0 +1,1399 @@
+{
+    "response": [
+        {
+            "A": [
+                {
+                    "ip_address": "207.244.67.214",
+                    "country_code": "US",
+                    "asn_date": "1996-11-15",
+                    "reg_timestamp": "1997-09-12T05:41:53-04:00",
+                    "last_updated": "1997-09-12T00:00:00-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "adblock.gjtech.net"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "spam404bl.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "hufilter.hu"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "20 cluster4a.eu.messagelabs.com.",
+                "10 cluster4.eu.messagelabs.com."
+            ],
+            "NS": [
+                "ns2.altibox.net.",
+                "ns1.altibox.net.",
+                "ns3.altibox.net."
+            ],
+            "SOA": [
+                "ns1.altibox.net. root.lyse.net. 2020121402 28800 7200 2419200 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:_spfsoft.services.altibox.net ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "fredfiber.no"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "34.205.242.146",
+                    "country_code": "US",
+                    "asn_date": "2016-09-12",
+                    "reg_timestamp": "2016-09-12T15:01:56-04:00",
+                    "last_updated": "2016-09-12T15:01:56-04:00"
+                },
+                {
+                    "ip_address": "54.161.222.85",
+                    "country_code": "US",
+                    "asn_date": "2014-10-23",
+                    "reg_timestamp": "2021-02-10T09:46:13-05:00",
+                    "last_updated": "2014-10-23T00:00:00-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": [
+                "traff-5.hugedomains.com."
+            ],
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "securemecca.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "1hos.cf"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "1hosts.cf"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "64.190.63.111",
+                    "country_code": "DE",
+                    "asn_date": "2002-05-31",
+                    "reg_timestamp": "2020-10-21T11:07:24Z",
+                    "last_updated": "2023-01-24T09:53:13Z"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 localhost."
+            ],
+            "NS": [
+                "ns2.sedoparking.com.",
+                "ns1.sedoparking.com."
+            ],
+            "SOA": [
+                "ns1.sedoparking.com. hostmaster.sedo.de. 2018051601 86400 10800 604800 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "everythingisnt.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "162.213.255.18",
+                    "country_code": "US",
+                    "asn_date": "2013-06-17",
+                    "reg_timestamp": "2015-03-24T17:42:06-04:00",
+                    "last_updated": "2013-06-17T19:20:22-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 mx1-hosting.jellyfish.systems.",
+                "20 mx2-hosting.jellyfish.systems.",
+                "30 mx3-hosting.jellyfish.systems."
+            ],
+            "NS": [
+                "rs35.registrar-servers.com.",
+                "rs135.registrar-servers.com."
+            ],
+            "SOA": [
+                "rs35.registrar-servers.com. cpanelnotifications.spamcollection.namecheaphosting.com. 2021011902 86400 7200 3600000 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"MAl2aW4tcGxhc3Rpa3MuY29tLgo=\"",
+                "\"v=spf1 +mx +a +ip4:162.213.255.19 ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "vin-plastiks.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "37.140.192.36",
+                    "country_code": "RU",
+                    "asn_date": "2012-02-29",
+                    "reg_timestamp": "2012-04-27T12:50:37Z",
+                    "last_updated": "2022-03-21T10:43:44Z"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2a00:f940:2:2:1:1:0:63",
+                    "country_code": "RU",
+                    "asn_date": "2012-05-11",
+                    "reg_timestamp": "2012-06-13T04:48:25Z",
+                    "last_updated": "2022-02-16T11:49:13Z"
+                }
+            ],
+            "MX": [
+                "10 mx1.hosting.reg.ru.",
+                "20 mx2.hosting.reg.ru."
+            ],
+            "NS": [
+                "ns1.hosting.reg.ru.",
+                "ns2.hosting.reg.ru."
+            ],
+            "SOA": [
+                "server63.hosting.reg.ru. support.reg.ru. 2021062011 3600 3600 604800 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 ip4:37.140.192.36 a mx include:_spf.hosting.reg.ru ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "adblock-listefr.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "intr0.cf"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "njabl.org"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "103.219.152.12",
+                    "country_code": "NL",
+                    "asn_date": "2016-05-19",
+                    "reg_timestamp": "2019-03-25T15:31:33Z",
+                    "last_updated": "2021-01-21T01:33:13Z"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2a09:3c00:1::12",
+                    "country_code": "NL",
+                    "asn_date": "2018-11-02",
+                    "reg_timestamp": "2020-12-24T11:15:22Z",
+                    "last_updated": "2022-03-24T18:54:45Z"
+                }
+            ],
+            "MX": [
+                "0 antispam-01.cloudws.nl.",
+                "0 antispam-02.cloudws.nl.",
+                "10 fallback.cloudws.nl."
+            ],
+            "NS": [
+                "ns01.cloudwebservices.nl.",
+                "ns03.cloudwebservices.network.",
+                "ns02.cloudwebservices.eu."
+            ],
+            "SOA": [
+                "ns01.cloudwebservices.nl. hostmaster.dutchmega.nl. 2023031221 10800 3600 604800 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 +a +mx ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "dutchmega.nl"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "0 juvander-net.mail.protection.outlook.com."
+            ],
+            "NS": [
+                "ns67.domaincontrol.com.",
+                "ns68.domaincontrol.com."
+            ],
+            "SOA": [
+                "ns67.domaincontrol.com. dns.jomax.net. 2019040904 28800 7200 604800 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:spf.protection.outlook.com -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "juvander.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "192.157.56.141",
+                    "country_code": "CA",
+                    "asn_date": "2012-10-22",
+                    "reg_timestamp": "2020-10-14T11:17:34-04:00",
+                    "last_updated": "2012-10-22T17:32:41-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "ssl.bblck.me"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "allblock.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "199.59.243.225",
+                    "country_code": "US",
+                    "asn_date": "2010-12-09",
+                    "reg_timestamp": "2021-10-15T16:41:51-04:00",
+                    "last_updated": "2021-01-11T18:36:42-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns2.bodis.com.",
+                "ns1.bodis.com."
+            ],
+            "SOA": [
+                "ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "acclaimsports.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "172.67.162.103",
+                    "country_code": "US",
+                    "asn_date": "2015-02-25",
+                    "reg_timestamp": "2021-05-26T18:01:44-04:00",
+                    "last_updated": "2015-02-25T20:57:09-05:00"
+                },
+                {
+                    "ip_address": "104.21.58.177",
+                    "country_code": "US",
+                    "asn_date": "2014-03-28",
+                    "reg_timestamp": "2021-05-26T18:01:10-04:00",
+                    "last_updated": "2014-03-28T11:30:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2606:4700:3035::ac43:a267",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                },
+                {
+                    "ip_address": "2606:4700:3037::6815:3ab1",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "aarav.ns.cloudflare.com.",
+                "nina.ns.cloudflare.com."
+            ],
+            "SOA": [
+                "aarav.ns.cloudflare.com. dns.cloudflare.com. 2326181959 10000 2400 604800 1800"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "acclaimmaxsports.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "89.117.188.39",
+                    "country_code": "LT",
+                    "asn_date": "2006-05-03",
+                    "reg_timestamp": "2021-02-09T08:47:25Z",
+                    "last_updated": "2022-12-19T12:50:24Z"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2a02:4780:11:1045:0:124d:8976:9",
+                    "country_code": "CY",
+                    "asn_date": "2011-07-13",
+                    "reg_timestamp": "2021-11-15T14:59:52Z",
+                    "last_updated": "2022-12-06T11:22:35Z"
+                }
+            ],
+            "MX": [
+                "10 mx2.hostinger.com.",
+                "5 mx1.hostinger.com."
+            ],
+            "NS": [
+                "ns2.dns-parking.com.",
+                "ns1.dns-parking.com."
+            ],
+            "SOA": [
+                "ns1.dns-parking.com. dns.hostinger.com. 2023120701 10000 2400 604800 600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:_spf.mail.hostinger.com ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "hip-games.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "15.197.142.173",
+                    "country_code": "US",
+                    "asn_date": "2021-01-28",
+                    "reg_timestamp": "2022-04-26T10:06:24-04:00",
+                    "last_updated": "2021-01-28T14:18:31-05:00"
+                },
+                {
+                    "ip_address": "3.33.152.147",
+                    "country_code": "US",
+                    "asn_date": "2017-12-20",
+                    "reg_timestamp": "2022-05-18T11:28:18-04:00",
+                    "last_updated": "2017-12-20T15:57:53-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns13.domaincontrol.com.",
+                "ns14.domaincontrol.com."
+            ],
+            "SOA": [
+                "ns13.domaincontrol.com. dns.jomax.net. 2023120801 28800 7200 604800 600"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "thq.com.au"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "13.248.169.48",
+                    "country_code": "US",
+                    "asn_date": "2018-07-11",
+                    "reg_timestamp": "2021-02-10T09:46:03-05:00",
+                    "last_updated": "2018-07-11T07:40:00-04:00"
+                },
+                {
+                    "ip_address": "76.223.54.146",
+                    "country_code": "US",
+                    "asn_date": "2018-01-10",
+                    "reg_timestamp": "2018-03-07T07:52:58-05:00",
+                    "last_updated": "2018-01-10T16:10:59-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 ."
+            ],
+            "NS": [
+                "ns5.afternic.com.",
+                "ns6.afternic.com."
+            ],
+            "SOA": [
+                "ns5.afternic.com. dns.jomax.net. 2023042600 28800 7200 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "gp32.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "38.11.41.59",
+                    "country_code": "US",
+                    "asn_date": "1991-04-16",
+                    "reg_timestamp": "2023-07-31T22:09:52-04:00",
+                    "last_updated": "2023-07-31T22:09:52-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.gname.net.",
+                "ns2.gname.net."
+            ],
+            "SOA": [
+                "ns1.gname.net. admin.gname.net. 1701546242 7200 3600 1209600 1800"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "kidnkid.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "b-shooter.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "100-9.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "172.67.177.164",
+                    "country_code": "US",
+                    "asn_date": "2015-02-25",
+                    "reg_timestamp": "2021-05-26T18:01:44-04:00",
+                    "last_updated": "2015-02-25T20:57:09-05:00"
+                },
+                {
+                    "ip_address": "104.21.35.164",
+                    "country_code": "US",
+                    "asn_date": "2014-03-28",
+                    "reg_timestamp": "2021-05-26T18:01:10-04:00",
+                    "last_updated": "2014-03-28T11:30:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2606:4700:3035::ac43:b1a4",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                },
+                {
+                    "ip_address": "2606:4700:3037::6815:23a4",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "iris.ns.cloudflare.com.",
+                "vern.ns.cloudflare.com."
+            ],
+            "SOA": [
+                "iris.ns.cloudflare.com. dns.cloudflare.com. 2325337993 10000 2400 604800 1800"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "cuttherope.ie"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "172.98.192.35",
+                    "country_code": "US",
+                    "asn_date": "2015-06-17",
+                    "reg_timestamp": "2018-03-10T00:38:47-05:00",
+                    "last_updated": "2018-03-10T00:38:47-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "oldgames.4all.cc"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "3.33.130.190",
+                    "country_code": "US",
+                    "asn_date": "2017-12-20",
+                    "reg_timestamp": "2022-05-18T11:28:18-04:00",
+                    "last_updated": "2017-12-20T15:57:53-05:00"
+                },
+                {
+                    "ip_address": "15.197.148.33",
+                    "country_code": "US",
+                    "asn_date": "2021-01-28",
+                    "reg_timestamp": "2022-04-26T10:06:24-04:00",
+                    "last_updated": "2021-01-28T14:18:31-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns11.domaincontrol.com.",
+                "ns12.domaincontrol.com."
+            ],
+            "SOA": [
+                "ns11.domaincontrol.com. dns.jomax.net. 2023091900 28800 7200 604800 600"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "cloudyvideogame.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "marsshooter.org"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "13.248.169.48",
+                    "country_code": "US",
+                    "asn_date": "2018-07-11",
+                    "reg_timestamp": "2021-02-10T09:46:03-05:00",
+                    "last_updated": "2018-07-11T07:40:00-04:00"
+                },
+                {
+                    "ip_address": "76.223.54.146",
+                    "country_code": "US",
+                    "asn_date": "2018-01-10",
+                    "reg_timestamp": "2018-03-07T07:52:58-05:00",
+                    "last_updated": "2018-01-10T16:10:59-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 ."
+            ],
+            "NS": [
+                "ns5.afternic.com.",
+                "ns6.afternic.com."
+            ],
+            "SOA": [
+                "ns5.afternic.com. dns.jomax.net. 2023042600 28800 7200 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "fortevr.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "tplinklogin.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "192.157.56.140",
+                    "country_code": "CA",
+                    "asn_date": "2012-10-22",
+                    "reg_timestamp": "2020-10-14T11:17:34-04:00",
+                    "last_updated": "2012-10-22T17:32:41-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.magpiedns.com.",
+                "ns2.magpiedns.com."
+            ],
+            "SOA": [
+                "ns1.koaladns.com. admin.tplinkextender.net. 2023112106 86400 10800 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "tplinkextender.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "45.33.23.183",
+                    "country_code": "US",
+                    "asn_date": "2015-03-20",
+                    "reg_timestamp": "2023-09-18T10:35:02-04:00",
+                    "last_updated": "2022-12-21T10:16:01-05:00"
+                },
+                {
+                    "ip_address": "45.33.18.44",
+                    "country_code": "US",
+                    "asn_date": "2015-03-20",
+                    "reg_timestamp": "2023-09-18T10:35:02-04:00",
+                    "last_updated": "2022-12-21T10:16:01-05:00"
+                },
+                {
+                    "ip_address": "45.79.19.196",
+                    "country_code": "US",
+                    "asn_date": "2015-04-29",
+                    "reg_timestamp": "2023-09-18T10:35:28-04:00",
+                    "last_updated": "2022-12-21T10:18:22-05:00"
+                },
+                {
+                    "ip_address": "45.33.30.197",
+                    "country_code": "US",
+                    "asn_date": "2015-03-20",
+                    "reg_timestamp": "2023-09-18T10:35:02-04:00",
+                    "last_updated": "2022-12-21T10:16:01-05:00"
+                },
+                {
+                    "ip_address": "45.33.2.79",
+                    "country_code": "US",
+                    "asn_date": "2015-03-20",
+                    "reg_timestamp": "2023-09-18T10:35:02-04:00",
+                    "last_updated": "2022-12-21T10:16:01-05:00"
+                },
+                {
+                    "ip_address": "72.14.185.43",
+                    "country_code": "US",
+                    "asn_date": "2008-05-21",
+                    "reg_timestamp": "2023-09-18T10:36:32-04:00",
+                    "last_updated": "2022-12-21T10:31:27-05:00"
+                },
+                {
+                    "ip_address": "45.33.20.235",
+                    "country_code": "US",
+                    "asn_date": "2015-03-20",
+                    "reg_timestamp": "2023-09-18T10:35:02-04:00",
+                    "last_updated": "2022-12-21T10:16:01-05:00"
+                },
+                {
+                    "ip_address": "198.58.118.167",
+                    "country_code": "US",
+                    "asn_date": "2012-08-10",
+                    "reg_timestamp": "2023-09-18T10:40:24-04:00",
+                    "last_updated": "2022-12-21T11:03:41-05:00"
+                },
+                {
+                    "ip_address": "96.126.123.244",
+                    "country_code": "US",
+                    "asn_date": "2011-05-06",
+                    "reg_timestamp": "2023-09-18T10:36:56-04:00",
+                    "last_updated": "2022-12-21T10:33:21-05:00"
+                },
+                {
+                    "ip_address": "72.14.178.174",
+                    "country_code": "US",
+                    "asn_date": "2008-05-21",
+                    "reg_timestamp": "2023-09-18T10:36:32-04:00",
+                    "last_updated": "2022-12-21T10:31:27-05:00"
+                },
+                {
+                    "ip_address": "45.56.79.23",
+                    "country_code": "US",
+                    "asn_date": "2015-01-21",
+                    "reg_timestamp": "2023-09-18T10:35:17-04:00",
+                    "last_updated": "2022-12-21T10:17:32-05:00"
+                },
+                {
+                    "ip_address": "173.255.194.134",
+                    "country_code": "US",
+                    "asn_date": "2010-08-27",
+                    "reg_timestamp": "2023-09-18T10:39:52-04:00",
+                    "last_updated": "2022-12-21T11:02:02-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "1 mail.mailerhost.net."
+            ],
+            "NS": [
+                "ns1.mytrafficmanagement.com.",
+                "ns2.mytrafficmanagement.com."
+            ],
+            "SOA": [
+                "ns1.mytrafficmanagement.com. admin.giantpanda.com. 2013020401 10800 3600 604800 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 ip6:fd43:c0d1:c090::/48 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "dreamlinux.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "199.59.243.225",
+                    "country_code": "US",
+                    "asn_date": "2010-12-09",
+                    "reg_timestamp": "2021-10-15T16:41:51-04:00",
+                    "last_updated": "2021-01-11T18:36:42-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.bodis.com.",
+                "ns2.bodis.com."
+            ],
+            "SOA": [
+                "ns1.bodis.com. dnsadmin.bodis.com. 2017062202 10800 3600 1209600 3600"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "dreamlinux.info"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "95.211.219.66",
+                    "country_code": "NL",
+                    "asn_date": "2009-02-05",
+                    "reg_timestamp": "2011-11-01T14:49:17Z",
+                    "last_updated": "2015-09-30T22:18:23Z"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "1 mail.h-email.net."
+            ],
+            "NS": [
+                "ns1.hastydns.com.",
+                "ns2.hastydns.com."
+            ],
+            "SOA": [
+                "ns1.hastydns.com. admin.hacktolive.org. 2023112105 86400 10800 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 ip6:fd9c:d030:168c::/48 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "hacktolive.org"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "92.249.45.141",
+                    "country_code": "DE",
+                    "asn_date": "2018-11-21",
+                    "reg_timestamp": "2019-06-24T13:05:14Z",
+                    "last_updated": "2022-10-18T05:04:28Z"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 mandriva.com."
+            ],
+            "NS": [
+                "cdns1.main-hosting.eu.",
+                "cdns2.main-hosting.eu."
+            ],
+            "SOA": [
+                "cdns1.main-hosting.eu. cpanel.main-hosting.eu. 2023120800 3600 7200 1209600 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=Iv32MJaoFa3PSqusEr0Q8u7goz5kWcCxos26aoh1zDo\"",
+                "\"v=spf1  a  mx  ip4:92.249.45.104  include:relay.mailchannels.net ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "mandriva.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "72.52.178.23",
+                    "country_code": "US",
+                    "asn_date": "2006-08-03",
+                    "reg_timestamp": "2016-12-19T08:40:37-05:00",
+                    "last_updated": "2006-08-03T14:25:29-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 mx156.hostedmxserver.com."
+            ],
+            "NS": [
+                "ns2.parklogic.com.",
+                "ns1.parklogic.com."
+            ],
+            "SOA": [
+                "ns1.parklogic.com. hostmaster.useragentswitch.com. 2023111601 3600 7200 1209600 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "useragentswitch.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "104.21.21.165",
+                    "country_code": "US",
+                    "asn_date": "2014-03-28",
+                    "reg_timestamp": "2021-05-26T18:01:10-04:00",
+                    "last_updated": "2014-03-28T11:30:55-04:00"
+                },
+                {
+                    "ip_address": "172.67.199.159",
+                    "country_code": "US",
+                    "asn_date": "2015-02-25",
+                    "reg_timestamp": "2021-05-26T18:01:44-04:00",
+                    "last_updated": "2015-02-25T20:57:09-05:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2606:4700:3037::ac43:c79f",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                },
+                {
+                    "ip_address": "2606:4700:3033::6815:15a5",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "gabriel.ns.cloudflare.com.",
+                "vivienne.ns.cloudflare.com."
+            ],
+            "SOA": [
+                "gabriel.ns.cloudflare.com. dns.cloudflare.com. 2322972974 10000 2400 604800 1800"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "dev-nano.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "adblocker-app.info"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "block-ads-now.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "205.177.122.154",
+                    "country_code": "US",
+                    "asn_date": "1995-03-20",
+                    "reg_timestamp": "2012-04-06T03:15:45-04:00",
+                    "last_updated": "2012-04-06T03:15:45-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "dns1.registrar-servers.com.",
+                "dns2.registrar-servers.com."
+            ],
+            "SOA": [
+                "dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1573462890 43200 3600 604800 3601"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "inside3d.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "64.91.249.20",
+                    "country_code": "US",
+                    "asn_date": "2001-07-20",
+                    "reg_timestamp": "2012-02-24T09:44:34-05:00",
+                    "last_updated": "2001-07-20T00:00:00-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 mx156.hostedmxserver.com."
+            ],
+            "NS": [
+                "ns1.parklogic.com.",
+                "ns2.parklogic.com."
+            ],
+            "SOA": [
+                "ns1.parklogic.com. hostmaster.viaarena.com. 2019102301 3600 7200 1209600 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "viaarena.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "qasirgame.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "172.67.131.11",
+                    "country_code": "US",
+                    "asn_date": "2015-02-25",
+                    "reg_timestamp": "2021-05-26T18:01:44-04:00",
+                    "last_updated": "2015-02-25T20:57:09-05:00"
+                },
+                {
+                    "ip_address": "104.21.9.220",
+                    "country_code": "US",
+                    "asn_date": "2014-03-28",
+                    "reg_timestamp": "2021-05-26T18:01:10-04:00",
+                    "last_updated": "2014-03-28T11:30:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2606:4700:3030::6815:9dc",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                },
+                {
+                    "ip_address": "2606:4700:3037::ac43:830b",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "aisha.ns.cloudflare.com.",
+                "bill.ns.cloudflare.com."
+            ],
+            "SOA": [
+                "aisha.ns.cloudflare.com. dns.cloudflare.com. 2036212659 10000 2400 604800 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=h4lKu46OL51mcsyiMyWgLJfN_xe97Fe0m7Up65LN9nE\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "willyousurvive.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "162.210.196.172",
+                    "country_code": "US",
+                    "asn_date": "2013-04-26",
+                    "reg_timestamp": "2013-08-22T07:54:23-04:00",
+                    "last_updated": "2013-08-22T07:54:23-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.numbatdns.com.",
+                "ns2.numbatdns.com."
+            ],
+            "SOA": [
+                "ns1.numbatdns.com. admin.underthegarden.com. 2023112105 86400 10800 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "underthegarden.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "104.27.203.89",
+                    "country_code": "US",
+                    "asn_date": "2014-03-28",
+                    "reg_timestamp": "2021-05-26T18:01:10-04:00",
+                    "last_updated": "2014-03-28T11:30:55-04:00"
+                },
+                {
+                    "ip_address": "104.27.204.89",
+                    "country_code": "US",
+                    "asn_date": "2014-03-28",
+                    "reg_timestamp": "2021-05-26T18:01:10-04:00",
+                    "last_updated": "2014-03-28T11:30:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2606:4700:91b8:5a80:4b3b:4c1:bc6:748a",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                }
+            ],
+            "MX": [
+                "1 aspmx.l.google.com.",
+                "10 alt3.aspmx.l.google.com.",
+                "10 alt4.aspmx.l.google.com.",
+                "5 alt1.aspmx.l.google.com."
+            ],
+            "NS": [
+                "desi.ns.cloudflare.com.",
+                "graham.ns.cloudflare.com."
+            ],
+            "SOA": [
+                "desi.ns.cloudflare.com. dns.cloudflare.com. 2327185190 10000 2400 604800 1800"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=GVUxAg1ebQPTXpARK9lOrMtPgxd0x5TEQ2O5v6dUDv8\"",
+                "\"google-site-verification=6sHL2Arkc5gD2-_AnSlKLwHhGZTuvlItUZexrLQXf20\"",
+                "\"google-site-verification=OoavfQ5lxsJVE-ULbIeu0-4rFFNqwuIgdxfgbWAC3I0\"",
+                "\"google-site-verification=QUEYEBVLdVhvRW1wxVlWbJCv8wbgU-q8nuf3IL_sZKE\"",
+                "\"google-site-verification=F_MBptYcwNVbw_u0th_R9Ccpb9ayCxwBiSW5bA79IJI\"",
+                "\"google-site-verification=VM7KtltQmo7Ta3XFUlbL1SUzkYmybf1qTqN5CsSImGU\"",
+                "\"google-site-verification=oC54G9cSflP-MJf3GZkeutGB7r8PBzqtvSr-BMeC3Yg\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "fileplanet.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "72.3.221.1",
+                    "country_code": "US",
+                    "asn_date": "2004-10-04",
+                    "reg_timestamp": "2015-07-24T15:05:48-04:00",
+                    "last_updated": "2015-07-24T15:05:48-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "20 mx2.emailsrvr.com.",
+                "10 mx1.emailsrvr.com."
+            ],
+            "NS": [
+                "ns2.rackspace.com.",
+                "ns.rackspace.com."
+            ],
+            "SOA": [
+                "ns.rackspace.com. hostmaster.rackspace.com. 1597212419 86400 7200 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 mx include:_spf.google.com include:emailsrvr.com ip4:74.205.41.30 include:createsend.com ~all\"",
+                "\"google-site-verification=iy5S6xfwjLF4tI1DdxXEXpqrppTpFDt8Joo3JotHNIk\"",
+                "\"google-site-verification=lUvJtcW_1I7skGS-dcKehlcz5u_jMUeTdEYfITjmcbY\"",
+                "\"google-site-verification=n_xqxwQikHwxGi3PJdcIkMBIeq3Mw68_6F1jDZkvfyU\"",
+                "\"google-site-verification=pf9Ixc6DxthMeERP-uo_75nmhFAub3j665ZmL3mkm90\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "funeducation.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "172.67.135.18",
+                    "country_code": "US",
+                    "asn_date": "2015-02-25",
+                    "reg_timestamp": "2021-05-26T18:01:44-04:00",
+                    "last_updated": "2015-02-25T20:57:09-05:00"
+                },
+                {
+                    "ip_address": "104.21.6.174",
+                    "country_code": "US",
+                    "asn_date": "2014-03-28",
+                    "reg_timestamp": "2021-05-26T18:01:10-04:00",
+                    "last_updated": "2014-03-28T11:30:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2606:4700:3030::6815:6ae",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                },
+                {
+                    "ip_address": "2606:4700:3031::ac43:8712",
+                    "country_code": "US",
+                    "asn_date": "2011-11-01",
+                    "reg_timestamp": "2017-02-17T18:07:51-05:00",
+                    "last_updated": "2011-11-01T15:59:58-04:00"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "reza.ns.cloudflare.com.",
+                "rudy.ns.cloudflare.com."
+            ],
+            "SOA": [
+                "reza.ns.cloudflare.com. dns.cloudflare.com. 2326987541 10000 2400 604800 1800"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "iq-research.info"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "95.168.203.112",
+                    "country_code": "CZ",
+                    "asn_date": "2009-01-07",
+                    "reg_timestamp": "2010-09-13T13:36:11Z",
+                    "last_updated": "2014-03-13T15:02:53Z"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 in.smtp.cz."
+            ],
+            "NS": [
+                "ns1.eurodns.com.",
+                "ns2.eurodns.com."
+            ],
+            "SOA": [
+                "ns1.eurodns.com. hostmaster.eurodns.com. 2022010500 86400 7200 604800 86400"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "iq-test.co.uk"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "209.97.190.105",
+                    "country_code": "US",
+                    "asn_date": "1997-07-03",
+                    "reg_timestamp": "2020-04-03T14:18:28-04:00",
+                    "last_updated": "1997-07-03T00:00:00-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "amber.ns.cloudflare.com.",
+                "hal.ns.cloudflare.com."
+            ],
+            "SOA": [
+                "amber.ns.cloudflare.com. dns.cloudflare.com. 2327123463 10000 2400 604800 1800"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "iqtest.co.uk"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "15.197.204.56",
+                    "country_code": "US",
+                    "asn_date": "2021-01-28",
+                    "reg_timestamp": "2022-04-26T10:06:24-04:00",
+                    "last_updated": "2021-01-28T14:18:31-05:00"
+                },
+                {
+                    "ip_address": "3.33.243.145",
+                    "country_code": "US",
+                    "asn_date": "2017-12-20",
+                    "reg_timestamp": "2022-05-18T11:28:18-04:00",
+                    "last_updated": "2017-12-20T15:57:53-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns37.domaincontrol.com.",
+                "ns38.domaincontrol.com."
+            ],
+            "SOA": [
+                "ns37.domaincontrol.com. dns.jomax.net. 2023033116 28800 7200 604800 600"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "iqtest.co"
+        }
+    ]
+}

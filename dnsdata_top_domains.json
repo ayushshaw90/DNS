@@ -1,0 +1,2024 @@
+{
+    "response": [
+        {
+            "A": [
+                {
+                    "ip_address": "172.217.31.206",
+                    "country_code": "US",
+                    "asn_date": "2012-04-16",
+                    "reg_timestamp": "2012-04-16T11:24:30-04:00",
+                    "last_updated": "2012-04-16T11:24:30-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2404:6800:4009:831::200e",
+                    "country_code": "AU",
+                    "asn_date": "2008-09-30",
+                    "reg_timestamp": "2008-09-30T00:48:27Z",
+                    "last_updated": "2020-05-26T18:20:48Z"
+                }
+            ],
+            "MX": [
+                "10 smtp.google.com."
+            ],
+            "NS": [
+                "ns4.google.com.",
+                "ns3.google.com.",
+                "ns1.google.com.",
+                "ns2.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"apple-domain-verification=30afIBcvSuDV2PLX\"",
+                "\"webexdomainverification.8YX6G=6e6922db-e3e6-4a36-904e-a805c28087fa\"",
+                "\"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95\"",
+                "\"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e\"",
+                "\"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=\"",
+                "\"google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o\"",
+                "\"atlassian-domain-verification=5YjTmWmjI92ewqkx2oXmBaD60Td9zWon9r6eakvHX6B77zzkFQto8PQ9QsKnbf4I\"",
+                "\"MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB\"",
+                "\"v=spf1 include:_spf.google.com ~all\"",
+                "\"onetrust-domain-verification=de01ed21f2fa4d8781cbc3ffb89cf4ef\"",
+                "\"google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ\"",
+                "\"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "google.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "157.240.1.35",
+                    "country_code": "US",
+                    "asn_date": "2015-05-14",
+                    "reg_timestamp": "2021-12-14T20:28:52-05:00",
+                    "last_updated": "2015-05-14T15:30:19-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2a03:2880:f16b:81:face:b00c:0:25de",
+                    "country_code": "IE",
+                    "asn_date": "2011-08-22",
+                    "reg_timestamp": "2015-09-24T12:59:37Z",
+                    "last_updated": "2022-10-29T00:51:39Z"
+                }
+            ],
+            "MX": [
+                "10 smtpin.vvv.facebook.com."
+            ],
+            "NS": [
+                "c.ns.facebook.com.",
+                "d.ns.facebook.com.",
+                "b.ns.facebook.com.",
+                "a.ns.facebook.com."
+            ],
+            "SOA": [
+                "a.ns.facebook.com. dns.facebook.com. 3758941013 14400 1800 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"zoom-domain-verification=a6c90d61-66ec-485c-9f3d-cce7036f01bb\"",
+                "\"v=spf1 redirect=_spf.facebook.com\"",
+                "\"google-site-verification=wdH5DTJTc9AYNwVunSVFeK0hYDGUIEOGb-RReU6pJlY\"",
+                "\"google-site-verification=sK6uY9x7eaMoEMfn3OILqwTFYgaNp4llmguKI-C3_iA\"",
+                "\"google-site-verification=A2WZWCNQHrGV_TWwKh6KHY90tY0SHZo_RnyMJoDaG0s\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "facebook.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.250.182.46",
+                    "country_code": "US",
+                    "asn_date": "2012-05-24",
+                    "reg_timestamp": "2012-05-24T11:40:55-04:00",
+                    "last_updated": "2012-05-24T11:40:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2404:6800:4007:81a::200e",
+                    "country_code": "AU",
+                    "asn_date": "2008-09-30",
+                    "reg_timestamp": "2008-09-30T00:48:27Z",
+                    "last_updated": "2020-05-26T18:20:48Z"
+                }
+            ],
+            "MX": [
+                "40 alt3.aspmx.l.google.com.",
+                "10 aspmx.l.google.com.",
+                "50 alt4.aspmx.l.google.com.",
+                "30 alt2.aspmx.l.google.com.",
+                "20 alt1.aspmx.l.google.com."
+            ],
+            "NS": [
+                "ns2.google.com.",
+                "ns1.google.com.",
+                "ns3.google.com.",
+                "ns4.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification:bqEukzgde2Z8kr2wk5OKZNrYrefPAHaoLYBFsi1ShK8\"",
+                "\"spf2.0/pra ?all\"",
+                "\"v=spf1 mx ?all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "doubleclick.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.250.183.164",
+                    "country_code": "US",
+                    "asn_date": "2012-05-24",
+                    "reg_timestamp": "2012-05-24T11:40:55-04:00",
+                    "last_updated": "2012-05-24T11:40:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2404:6800:4009:825::2004",
+                    "country_code": "AU",
+                    "asn_date": "2008-09-30",
+                    "reg_timestamp": "2008-09-30T00:48:27Z",
+                    "last_updated": "2020-05-26T18:20:48Z"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "ns2.google.com.",
+                "ns4.google.com.",
+                "ns1.google.com.",
+                "ns3.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "google-analytics.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "100 mx0b-00190b01.pphosted.com.",
+                "100 mx0a-00190b01.pphosted.com."
+            ],
+            "NS": [
+                "ax2.akamaistream.net.",
+                "ax0.akamaistream.net.",
+                "ns6-32.akamaistream.net.",
+                "ax3.akamaistream.net.",
+                "p7.akamaistream.net.",
+                "p5.akamaistream.net.",
+                "ax1.akamaistream.net.",
+                "p8.akamaistream.net.",
+                "p6.akamaistream.net.",
+                "ns2-32.akamaistream.net.",
+                "ns3-32.akamaistream.net.",
+                "p4.akamaistream.net."
+            ],
+            "SOA": [
+                "internal.akamaistream.net. hostmaster.akamai.com. 1585230000 90000 90000 90000 180"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"$Revision:\" \"#939\" \"$\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "akamaihd.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.250.183.132",
+                    "country_code": "US",
+                    "asn_date": "2012-05-24",
+                    "reg_timestamp": "2012-05-24T11:40:55-04:00",
+                    "last_updated": "2012-05-24T11:40:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2404:6800:4009:824::2004",
+                    "country_code": "AU",
+                    "asn_date": "2008-09-30",
+                    "reg_timestamp": "2008-09-30T00:48:27Z",
+                    "last_updated": "2020-05-26T18:20:48Z"
+                }
+            ],
+            "MX": [
+                "0 smtp.google.com."
+            ],
+            "NS": [
+                "ns1.google.com.",
+                "ns4.google.com.",
+                "ns2.google.com.",
+                "ns3.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:_spf.google.com ?all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "googlesyndication.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.250.196.4",
+                    "country_code": "US",
+                    "asn_date": "2012-05-24",
+                    "reg_timestamp": "2012-05-24T11:40:55-04:00",
+                    "last_updated": "2012-05-24T11:40:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2404:6800:4009:830::2004",
+                    "country_code": "AU",
+                    "asn_date": "2008-09-30",
+                    "reg_timestamp": "2008-09-30T00:48:27Z",
+                    "last_updated": "2020-05-26T18:20:48Z"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "ns2.google.com.",
+                "ns1.google.com.",
+                "ns3.google.com.",
+                "ns4.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"MS=ms95694125\"",
+                "\"MS=ms62662176\"",
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "googleapis.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "172.217.163.194",
+                    "country_code": "US",
+                    "asn_date": "2012-04-16",
+                    "reg_timestamp": "2012-04-16T11:24:30-04:00",
+                    "last_updated": "2012-04-16T11:24:30-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 smtp.google.com."
+            ],
+            "NS": [
+                "ns2.google.com.",
+                "ns3.google.com.",
+                "ns4.google.com.",
+                "ns1.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:_spf.google.com ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "googleadservices.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "c.ns.facebook.com.",
+                "b.ns.facebook.com.",
+                "d.ns.facebook.com.",
+                "a.ns.facebook.com."
+            ],
+            "SOA": [
+                "a.ns.facebook.com. dns.facebook.com. 3758941013 14400 1800 604800 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 ip4:69.63.179.25 ip4:69.63.178.128/25 ip4:69.63.184.0/25 ip4:66.220.144.128/25 ip4:66.220.155.0/24 mx -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "facebook.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.250.192.46",
+                    "country_code": "US",
+                    "asn_date": "2012-05-24",
+                    "reg_timestamp": "2012-05-24T11:40:55-04:00",
+                    "last_updated": "2012-05-24T11:40:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2404:6800:4009:828::200e",
+                    "country_code": "AU",
+                    "asn_date": "2008-09-30",
+                    "reg_timestamp": "2008-09-30T00:48:27Z",
+                    "last_updated": "2020-05-26T18:20:48Z"
+                }
+            ],
+            "MX": [
+                "0 smtp.google.com."
+            ],
+            "NS": [
+                "ns2.google.com.",
+                "ns1.google.com.",
+                "ns4.google.com.",
+                "ns3.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"facebook-domain-verification=64jdes7le4h7e7lfpi22rijygx58j1\"",
+                "\"google-site-verification=QtQWEwHWM8tHiJ4s-jJWzEQrD_fF3luPnpzNDH-Nw-w\"",
+                "\"v=spf1 include:google.com mx -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "youtube.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "104.244.42.129",
+                    "country_code": "US",
+                    "asn_date": "2014-12-08",
+                    "reg_timestamp": "2020-06-28T13:48:15-04:00",
+                    "last_updated": "2014-12-08T18:42:54-05:00"
+                },
+                {
+                    "ip_address": "104.244.42.1",
+                    "country_code": "US",
+                    "asn_date": "2014-12-08",
+                    "reg_timestamp": "2020-06-28T13:48:15-04:00",
+                    "last_updated": "2014-12-08T18:42:54-05:00"
+                },
+                {
+                    "ip_address": "104.244.42.65",
+                    "country_code": "US",
+                    "asn_date": "2014-12-08",
+                    "reg_timestamp": "2020-06-28T13:48:15-04:00",
+                    "last_updated": "2014-12-08T18:42:54-05:00"
+                },
+                {
+                    "ip_address": "104.244.42.193",
+                    "country_code": "US",
+                    "asn_date": "2014-12-08",
+                    "reg_timestamp": "2020-06-28T13:48:15-04:00",
+                    "last_updated": "2014-12-08T18:42:54-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 mxa-008d0a01.gslb.pphosted.com.",
+                "10 mxb-008d0a01.gslb.pphosted.com."
+            ],
+            "NS": [
+                "b.r06.twtrdns.net.",
+                "a.r06.twtrdns.net.",
+                "c.r06.twtrdns.net.",
+                "d.r06.twtrdns.net.",
+                "a.u06.twtrdns.net.",
+                "b.u06.twtrdns.net.",
+                "c.u06.twtrdns.net.",
+                "d.u06.twtrdns.net."
+            ],
+            "SOA": [
+                "a.u06.twtrdns.net. noc.twitter.com. 2023120801 3600 600 604800 600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6\"",
+                "\"wrike-verification=MjU4MTA5MjoyN2UzNDc1MjU3MDZiZTY4NjBiNzliNDQ2OTUwNWY3NmM5NDgyMTBlYzFkNTcwYTE2YWNmZDdkNTY2ZmE4Yzlh\"",
+                "\"miro-verification=6e1ca9ad6d0c2cd2e4186141265f23ed618cfe37\"",
+                "\"mixpanel-domain-verify=164dda91-31f4-41e8-a816-0f59b38fea30\"",
+                "\"loom-site-verification=638c6bc173b9458997f64d305bf42499\"",
+                "\"atlassian-domain-verification=j6u0o1PTkobCXC84uEF/sWpIPtaZURBVYqKzmTvT8wugLcHT1vvrzzA63iP1qSLN\"",
+                "\"traction-guest=6882b04e-4188-4ff9-8bb4-bff5a3d358e6\"",
+                "\"adobe-idp-site-verification=a2ff8fc40c434d1d6f02f68b0b1a683e400572ab8c1f2c180c71c3d985b9270a\"",
+                "\"google-site-verification=TNhAkfLUeIbzzzSgPNxS5aEkKMf3aUcpPmCK1_kmIvU\"",
+                "\"v=spf1 ip4:199.16.156.0/22 ip4:199.59.148.0/22 ip4:8.25.194.0/23 ip4:8.25.196.0/23 ip4:204.92.114.203 ip4:204.92.114.204/31 include:_spf.google.com include:_thirdparty.twitter.com include:_oerp.twitter.com include:spf.smtp2go.com -all\"",
+                "\"google-site-verification=h6dJIv0HXjLOkGAotLAWEzvoi9SxqP4vjpx98vrCvvQ\"",
+                "\"bj6sbt5xqs9hw9jrfvz7hplrg0l680sb\"",
+                "\"traction-guest=a4d0248d-fe01-4222-8fcc-33f68323e667\"",
+                "\"google-site-verification=600dQ0pZYsH2xOFt4hYmf5f5NpjCbWE_qk5Y04dErYM\"",
+                "\"apple-domain-verification=zd1iHoEO9LILEQIq\"",
+                "\"canva-site-verification=lMnZ3wMh7c1uqZqa-cxZTg\"",
+                "\"MS=BEE202D20C326867290BDEFA2DDDF4594B5D6860\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "twitter.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "165.193.78.252",
+                    "country_code": "US",
+                    "asn_date": "1993-12-21",
+                    "reg_timestamp": "2009-07-22T06:15:05-04:00",
+                    "last_updated": "2009-07-22T06:15:05-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 d160958a.ess.barracudanetworks.com.",
+                "20 d160958b.ess.barracudanetworks.com."
+            ],
+            "NS": [
+                "ns-106.awsdns-13.com.",
+                "ns-1323.awsdns-37.org.",
+                "ns-1779.awsdns-30.co.uk.",
+                "ns-905.awsdns-49.net."
+            ],
+            "SOA": [
+                "ns-905.awsdns-49.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"MS=ms77850526\"",
+                "\"v=spf1 ip4:64.209.233.0/29 ip4:64.210.228.48/29 ip4:64.209.224.96/27 ip4:63.210.103.80/29 ip4:66.119.41.0/25 ip4:66.119.33.192/27 ip4:216.109.78.232/29 include:msgfocus.com -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "scorecardresearch.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "20.112.250.133",
+                    "country_code": "US",
+                    "asn_date": "2017-10-18",
+                    "reg_timestamp": "2021-12-14T20:28:38-05:00",
+                    "last_updated": "2017-10-18T13:17:25-04:00"
+                },
+                {
+                    "ip_address": "20.231.239.246",
+                    "country_code": "US",
+                    "asn_date": "2017-10-18",
+                    "reg_timestamp": "2021-12-14T20:28:49-05:00",
+                    "last_updated": "2017-10-18T13:17:26-04:00"
+                },
+                {
+                    "ip_address": "20.76.201.171",
+                    "country_code": "US",
+                    "asn_date": "2017-10-18",
+                    "reg_timestamp": "2021-12-14T20:28:38-05:00",
+                    "last_updated": "2017-10-18T13:17:25-04:00"
+                },
+                {
+                    "ip_address": "20.70.246.20",
+                    "country_code": "US",
+                    "asn_date": "2017-10-18",
+                    "reg_timestamp": "2021-12-14T20:28:38-05:00",
+                    "last_updated": "2017-10-18T13:17:25-04:00"
+                },
+                {
+                    "ip_address": "20.236.44.162",
+                    "country_code": "US",
+                    "asn_date": "2017-10-18",
+                    "reg_timestamp": "2021-12-14T20:28:49-05:00",
+                    "last_updated": "2017-10-18T13:17:26-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2603:1030:b:3::152",
+                    "country_code": "US",
+                    "asn_date": "2014-06-05",
+                    "reg_timestamp": "2014-06-05T15:12:30-04:00",
+                    "last_updated": "2014-06-05T15:12:30-04:00"
+                },
+                {
+                    "ip_address": "2603:1030:20e:3::23c",
+                    "country_code": "US",
+                    "asn_date": "2014-06-05",
+                    "reg_timestamp": "2014-06-05T15:12:30-04:00",
+                    "last_updated": "2014-06-05T15:12:30-04:00"
+                },
+                {
+                    "ip_address": "2603:1030:c02:8::14",
+                    "country_code": "US",
+                    "asn_date": "2014-06-05",
+                    "reg_timestamp": "2014-06-05T15:12:30-04:00",
+                    "last_updated": "2014-06-05T15:12:30-04:00"
+                },
+                {
+                    "ip_address": "2603:1020:201:10::10f",
+                    "country_code": "US",
+                    "asn_date": "2014-06-05",
+                    "reg_timestamp": "2014-06-05T15:12:30-04:00",
+                    "last_updated": "2014-06-05T15:12:30-04:00"
+                },
+                {
+                    "ip_address": "2603:1010:3:3::5b",
+                    "country_code": "US",
+                    "asn_date": "2014-06-05",
+                    "reg_timestamp": "2014-06-05T15:12:30-04:00",
+                    "last_updated": "2014-06-05T15:12:30-04:00"
+                }
+            ],
+            "MX": [
+                "10 microsoft-com.mail.protection.outlook.com."
+            ],
+            "NS": [
+                "ns1-39.azure-dns.com.",
+                "ns2-39.azure-dns.net.",
+                "ns3-39.azure-dns.org.",
+                "ns4-39.azure-dns.info."
+            ],
+            "SOA": [
+                "ns1-39.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"docusign=d5a3737c-c23c-4bd0-9095-d2ff621f2840\"",
+                "\"google-site-verification=GfDnTUdATPsK1230J0mXbfsYw-3A9BVMVaKSd4DcKgI\"",
+                "\"google-site-verification=uFg3wr5PWsK8lV029RoXXBBUW0_E6qf1WEWVHhetkOY\"",
+                "\"fg2t0gov9424p2tdcuo94goe9j\"",
+                "\"atlassian-domain-verification=xvoaqRfxSg3PnlVnR4xCSOlKyw1Aln0MMxRiKXnwWroFG7vI76TUC8xYb03MwMXv\"",
+                "\"d365mktkey=QDa792dLCZhvaAOOCe2Hz6WTzmTssOp1snABhxWibhMx\"",
+                "\"facebook-domain-verification=fwzwhbbzwmg5fzgotc2go51olc3566\"",
+                "\"d365mktkey=j2qHWq9BHdaa3ZXZH8x64daJZxEWsFa0dxDeilxDoYYx\"",
+                "\"t7sebee51jrj7vm932k531hipa\"",
+                "\"google-site-verification=M--CVfn_YwsV-2FGbCp_HFaEj23BmT0cTF4l8hXgpvM\"",
+                "\"d365mktkey=3uc1cf82cpv750lzk70v9bvf2\"",
+                "\"google-site-verification=pjPOauSPcrfXOZS9jnPPa5axowcHGCDAl1_86dCqFpk\"",
+                "\"d365mktkey=6358r1b7e13hox60tl1uagv14\"",
+                "\"d365mktkey=SxDf1EZxLvMwx6eEZUxzjFFgHoapF8DvtWEUjwq7ZTwx\"",
+                "\"v=spf1 include:_spf-a.microsoft.com include:_spf-b.microsoft.com include:_spf-c.microsoft.com include:_spf-ssg-a.msft.net include:spf-a.hotmail.com include:_spf1-meo.microsoft.com -all\"",
+                "\"hubspot-developer-verification=OTQ5NGIwYWEtODNmZi00YWE1LTkyNmQtNDhjMDMxY2JjNDAx\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "microsoft.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "0 smtp.google.com."
+            ],
+            "NS": [
+                "ns1.google.com.",
+                "ns4.google.com.",
+                "ns2.google.com.",
+                "ns3.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "ytimg.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.google.com.",
+                "ns4.google.com.",
+                "ns3.google.com.",
+                "ns2.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:_spf.google.com ?all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "googleusercontent.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "17.253.144.10",
+                    "country_code": "US",
+                    "asn_date": "1990-04-16",
+                    "reg_timestamp": "2023-11-15T12:49:22-05:00",
+                    "last_updated": "1990-04-16T00:00:00-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2620:149:af0::10",
+                    "country_code": "US",
+                    "asn_date": "2011-04-26",
+                    "reg_timestamp": "2023-11-15T12:50:38-05:00",
+                    "last_updated": "2011-04-26T16:25:02-04:00"
+                }
+            ],
+            "MX": [
+                "10 mx-in.g.apple.com.",
+                "20 mx-in-vib.apple.com.",
+                "20 mx-in-mdn.apple.com.",
+                "20 mx-in-rno.apple.com.",
+                "20 mx-in-hfd.apple.com."
+            ],
+            "NS": [
+                "b.ns.apple.com.",
+                "a.ns.apple.com.",
+                "c.ns.apple.com.",
+                "d.ns.apple.com."
+            ],
+            "SOA": [
+                "usmsc2-extxfr-001.dns.apple.com. hostmaster.apple.com. 2010130628 900 900 2016000 14400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"Dynatrace-site-verification=7d881a7c-c13f-4146-9d27-2731459e2509__iqls0105tagglcsaul0m16ibrf\"",
+                "\"v=spf1 include:_spf.apple.com include:_spf-txn.apple.com ~all\"",
+                "\"cisco-ci-domain-verification=6f3bfb849796a518061f8e8c4356f687a138502d86db742791685059176547dd\"",
+                "\"ValidationTokenValue=77a4a6de-da14-449c-83c4-85366e0f55f9\"",
+                "\"facebook-domain-verification=n6cqjfucq6plswmtfbwnbbeu1qiq3v\"",
+                "\"miro-verification=2494d255c4c50b1e521650a0659cbf3fa08b0072\"",
+                "\"atlassian-domain-verification=mLabq99iaT8kquJechF6l31FAYoNUe3WB7tLpLFUiUYVJCse9SKq83hOJzFkwqrh\"",
+                "\"json:eyJ3aHkiOiJUaGlzIGlzIHRvIHRydW5jYXRlIFVEUCByZXNwb25zZXMgZm9yIFRYVCBxdWVyaWVzIHRvIGFwcGxlLmNvbSIsInBhZGRpbmciOiJpZW4wYWVHaGF0aG9oNmhhaHZpZWphaTNlYXkwYWh2YWhjaGFocXVhZWxlZTBZdWw0cGhpZXRoMHNvNXZpZXllZWNvaDRpZThzaGVlcGllVDNwYWVjaGVpVjZqb2h3aWVwaG82In0K\"",
+                "\"77a4a6de-da14-449c-83c4-85366e0f55f9\"",
+                "\"cerner-client-id=ce3abf18-ee87-43b9-9927-9eb24b4bac4a\"",
+                "\"json:eyJ3aHkiOiJUaGlzIGlzIHRvIHRydW5jYXRlIFVEUCByZXNwb25zZXMgZm9yIFRYVCBxdWVyaWVzIHRvIGFwcGxlLmNvbSIsInBhZGRpbmciOiJxdWFoMGVpamFhNGVlajh0aWVkYWlnaG9jZWljaGFlOGVUb3ppZTVmdTVhaFRoMldlaU00aWsyaHVxdThpZXBoaWVxdW9oc2hlaXBhZWdoOUthZWw3b2NoaWVuZ2llem9lc2g1In0K\"",
+                "\"google-site-verification=zBSq1mG5ssu2If-C17UAz_MzSZDcx03MVxmeDwMNc5w\"",
+                "\"adobe-idp-site-verification=6bd5e74c-a3a0-4781-b2e1-e95399b5e11c\"",
+                "\"webexdomainverification.8C462=b728ec3f-dfc9-42f9-92cb-9ba8853cbee8\"",
+                "\"google-site-verification=L5kkMdiFI8npvb6KlHui84fJaCw5G64DWhaDRIAT4_c\"",
+                "\"apple-domain-verification=X5Jt76bn3Dnmgzjj\"",
+                "\"google-site-verification=8M6XjQCzydT62jk8HY3VXPAG-nKDllTRV-JpA3-Ktyw\"",
+                "\"cerner-client-id=22dd1d8a-5e8b-4e1e-80ef-39bcdfd42798\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "apple.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1-34.azure-dns.com.",
+                "ns2-34.azure-dns.net.",
+                "ns3-34.azure-dns.org.",
+                "ns4-34.azure-dns.info."
+            ],
+            "SOA": [
+                "ns1-34.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "msftncsi.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.google.com.",
+                "ns4.google.com.",
+                "ns3.google.com.",
+                "ns2.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "2mdn.net"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.google.com.",
+                "ns2.google.com.",
+                "ns4.google.com.",
+                "ns3.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "googletagservices.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns1.gslb.com.",
+                "ns2.gslb.com."
+            ],
+            "SOA": [
+                "ns1.gslb.com. support.appnexus.net. 1 86400 30 86400 30"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "adnxs.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "74.6.143.26",
+                    "country_code": "US",
+                    "asn_date": "2006-02-13",
+                    "reg_timestamp": "2019-03-22T16:00:03-04:00",
+                    "last_updated": "2006-02-13T15:55:11-05:00"
+                },
+                {
+                    "ip_address": "98.137.11.164",
+                    "country_code": "US",
+                    "asn_date": "2007-12-07",
+                    "reg_timestamp": "2019-05-01T13:13:23-04:00",
+                    "last_updated": "2007-12-07T11:12:01-05:00"
+                },
+                {
+                    "ip_address": "74.6.143.25",
+                    "country_code": "US",
+                    "asn_date": "2006-02-13",
+                    "reg_timestamp": "2019-03-22T16:00:03-04:00",
+                    "last_updated": "2006-02-13T15:55:11-05:00"
+                },
+                {
+                    "ip_address": "98.137.11.163",
+                    "country_code": "US",
+                    "asn_date": "2007-12-07",
+                    "reg_timestamp": "2019-05-01T13:13:23-04:00",
+                    "last_updated": "2007-12-07T11:12:01-05:00"
+                },
+                {
+                    "ip_address": "74.6.231.20",
+                    "country_code": "US",
+                    "asn_date": "2006-02-13",
+                    "reg_timestamp": "2019-03-22T16:00:03-04:00",
+                    "last_updated": "2006-02-13T15:55:11-05:00"
+                },
+                {
+                    "ip_address": "74.6.231.21",
+                    "country_code": "US",
+                    "asn_date": "2006-02-13",
+                    "reg_timestamp": "2019-03-22T16:00:03-04:00",
+                    "last_updated": "2006-02-13T15:55:11-05:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2001:4998:24:120d::1:0",
+                    "country_code": "US",
+                    "asn_date": "2005-10-27",
+                    "reg_timestamp": "2019-05-01T13:14:48-04:00",
+                    "last_updated": "2005-10-27T19:09:00-04:00"
+                },
+                {
+                    "ip_address": "2001:4998:124:1507::f001",
+                    "country_code": "US",
+                    "asn_date": "2005-10-27",
+                    "reg_timestamp": "2019-05-01T13:14:48-04:00",
+                    "last_updated": "2005-10-27T19:09:00-04:00"
+                },
+                {
+                    "ip_address": "2001:4998:124:1507::f000",
+                    "country_code": "US",
+                    "asn_date": "2005-10-27",
+                    "reg_timestamp": "2019-05-01T13:14:48-04:00",
+                    "last_updated": "2005-10-27T19:09:00-04:00"
+                },
+                {
+                    "ip_address": "2001:4998:44:3507::8001",
+                    "country_code": "US",
+                    "asn_date": "2005-10-27",
+                    "reg_timestamp": "2019-05-01T13:14:48-04:00",
+                    "last_updated": "2005-10-27T19:09:00-04:00"
+                },
+                {
+                    "ip_address": "2001:4998:44:3507::8000",
+                    "country_code": "US",
+                    "asn_date": "2005-10-27",
+                    "reg_timestamp": "2019-05-01T13:14:48-04:00",
+                    "last_updated": "2005-10-27T19:09:00-04:00"
+                },
+                {
+                    "ip_address": "2001:4998:24:120d::1:1",
+                    "country_code": "US",
+                    "asn_date": "2005-10-27",
+                    "reg_timestamp": "2019-05-01T13:14:48-04:00",
+                    "last_updated": "2005-10-27T19:09:00-04:00"
+                }
+            ],
+            "MX": [
+                "1 mta6.am0.yahoodns.net.",
+                "1 mta7.am0.yahoodns.net.",
+                "1 mta5.am0.yahoodns.net."
+            ],
+            "NS": [
+                "ns2.yahoo.com.",
+                "ns5.yahoo.com.",
+                "ns3.yahoo.com.",
+                "ns1.yahoo.com.",
+                "ns4.yahoo.com."
+            ],
+            "SOA": [
+                "ns1.yahoo.com. hostmaster.yahoo-inc.com. 2023121109 3600 300 1814400 600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=xoBvU6aKxP0gYgNL0iXqF0EccAg6nFrO7XxsHnc3iNQ\"",
+                "\"facebook-domain-verification=gysqrcd69g0ej34f4jfn0huivkym1p\"",
+                "\"edb3bff2c0d64622a9b2250438277a59\"",
+                "\"google-site-verification=Z3-Vh6zqUMgybVH4wQl1GxKSKN7JE13kyCyeZ3TZZ-I\"",
+                "\"Zoom=13284637\"",
+                "\"v=spf1 redirect=_spf.mail.yahoo.com\"",
+                "\"google-site-verification=GLp01gkFNopm_JItbLxml4iuVbTgJa3rKu0-eq1RvsE\"",
+                "\"google-site-verification=2b0Glh8l2icXIAgAcjOcFx16Jt26yWDgEyrk5hPD-ZY\"",
+                "\"google-site-verification=w4N2bNopAWw1xYrdXKORILxx-WW3_LIiyX6dIMIidgk\"",
+                "\"_globalsign-domain-verification=8DPEanqC-w2Z26VeL5Sn4zBI7cZPCFqrNU5dMKMKeP\"",
+                "\"google-site-verification=2b8irRvU5a2h4Mb-H_fdqNrqWjS00qmPfPcWqm8BhxI\"",
+                "\"_globalsign-domain-verification=+uiRDFpnx6nJGVVEhYUSY24UssVdnBCFzI0V5Stm7bE=\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "yahoo.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "10 inbound-smtp.us-east-1.amazonaws.com."
+            ],
+            "NS": [
+                "ns-131.awsdns-16.com.",
+                "ns-1502.awsdns-59.org.",
+                "ns-1867.awsdns-41.co.uk.",
+                "ns-787.awsdns-34.net."
+            ],
+            "SOA": [
+                "ns-1502.awsdns-59.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"82vt42ej0c33v06vadveh6kqmd\"",
+                "\"v=spf1 include:amazonses.com ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "serving-sys.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "100 mx0b-00190b01.pphosted.com.",
+                "100 mx0a-00190b01.pphosted.com."
+            ],
+            "NS": [
+                "a9-128.akadns.net.",
+                "a7-131.akadns.net.",
+                "a11-129.akadns.net.",
+                "a13-130.akagtm.org.",
+                "a5-130.akagtm.org.",
+                "a1-128.akadns.net.",
+                "a3-129.akadns.net.",
+                "a12-131.akagtm.org.",
+                "a18-128.akagtm.org.",
+                "a28-129.akagtm.org."
+            ],
+            "SOA": [
+                "internal.akadns.net. hostmaster.akamai.com. 1629813934 90000 90000 90000 180"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"This\" \"is\" \"not\" \"the\" \"nameserver\" \"you\" \"are\" \"looking\" \"for.\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "akadns.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "158.101.24.210",
+                    "country_code": "US",
+                    "asn_date": "2016-10-14",
+                    "reg_timestamp": "2017-12-01T08:02:47-05:00",
+                    "last_updated": "2017-12-01T08:02:47-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 mxa-00069f01.gslb.pphosted.com.",
+                "10 mxb-00069f01.gslb.pphosted.com."
+            ],
+            "NS": [
+                "ns-1497.awsdns-59.org.",
+                "ns-1622.awsdns-10.co.uk.",
+                "ns-164.awsdns-20.com.",
+                "ns-548.awsdns-04.net."
+            ],
+            "SOA": [
+                "ns-1622.awsdns-10.co.uk. awsdns-hostmaster.amazon.com. 1 3600 600 1209600 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"0nzhrj0dw130vz0l8zsp8znklwps1gss\"",
+                "\"57hm7nyx4wkjk4fqms8wlnlq7t28t5xp\"",
+                "\"643bhry8vhncmng8vr417f3msdk3g9lm\"",
+                "\"MS=ms21592434\"",
+                "\"bzs3z25smxyylvxfjkr6vqmgp2tbgw42\"",
+                "\"c8hjj9vf5q534hbmb7rwlb3ccgnqnwqd\"",
+                "\"ckz5qn10w239ndwsxl5qdxhkc41v8909\"",
+                "\"v=spf1 include:spf.oracleemaildelivery.com ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "bluekai.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns3.google.com.",
+                "ns2.google.com.",
+                "ns4.google.com.",
+                "ns1.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "ggpht.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "69.194.143.123",
+                    "country_code": "US",
+                    "asn_date": "2010-07-26",
+                    "reg_timestamp": "2016-01-27T13:20:15-05:00",
+                    "last_updated": "2016-01-27T13:20:15-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "1 aspmx.l.google.com.",
+                "10 aspmx2.googlemail.com.",
+                "10 aspmx3.googlemail.com.",
+                "5 alt1.aspmx.l.google.com.",
+                "5 alt2.aspmx.l.google.com."
+            ],
+            "NS": [
+                "ns-1150.awsdns-15.org.",
+                "ns-1722.awsdns-23.co.uk.",
+                "ns-483.awsdns-60.com.",
+                "ns-644.awsdns-16.net."
+            ],
+            "SOA": [
+                "ns-644.awsdns-16.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 ip4:72.34.113.100 ip4:69.194.143.140 include:spf.rubiconproject.com include:sendgrid.net include:_spf.google.com include:mktomail.com include:spf.mandrillapp.com include:aspmx.pardot.com ~all\"",
+                "\"00d700000008awveam\"",
+                "\"google-site-verification=U-FUvU0VS4falHBMujbJtZpgqy95I2EFC08ADvrqlSQ\"",
+                "\"apple-domain-verification=G4AVkC9r63d1Wgp7\"",
+                "\"docusign=740bb1dc-f7a3-4027-b408-aed4bd2824d0\"",
+                "\"google-site-verification=8Oe3JXELIVSWdd5P6OY4UM5pF_aqaApPAbdvsIqjvtY\"",
+                "\"logmein-domain-confirmation 90DIFG9EEUT8U8R48952255\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "rubiconproject.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "72.13.63.40",
+                    "country_code": "US",
+                    "asn_date": "2004-11-04",
+                    "reg_timestamp": "2020-10-20T06:58:09-04:00",
+                    "last_updated": "2004-11-04T10:25:45-05:00"
+                },
+                {
+                    "ip_address": "209.131.162.45",
+                    "country_code": "US",
+                    "asn_date": "2018-07-16",
+                    "reg_timestamp": "2018-07-16T16:07:46-04:00",
+                    "last_updated": "2018-07-16T16:07:46-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2620:74:13:3000::40",
+                    "country_code": "US",
+                    "asn_date": "2010-05-06",
+                    "reg_timestamp": "2020-10-20T10:03:21-04:00",
+                    "last_updated": "2020-10-20T10:03:21-04:00"
+                },
+                {
+                    "ip_address": "2620:74:10:2800::45",
+                    "country_code": "US",
+                    "asn_date": "2010-05-06",
+                    "reg_timestamp": "2020-10-20T10:03:21-04:00",
+                    "last_updated": "2020-10-20T10:03:21-04:00"
+                }
+            ],
+            "MX": [
+                "10 mail3.verisign.com.",
+                "10 mail1.verisign.com.",
+                "10 mail5.verisign.com.",
+                "10 mail2.verisign.com.",
+                "10 mail4.verisign.com.",
+                "10 mail6.verisign.com."
+            ],
+            "NS": [
+                "av3.nstld.com.",
+                "av1.nstld.com.",
+                "av4.nstld.com.",
+                "av2.nstld.com."
+            ],
+            "SOA": [
+                "av1.nstld.com. mdnshelp.verisign.com. 1702253955 300 7200 1209600 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:spf-i.verisign.com include:spf-p.verisign.com ~all\"",
+                "\"7e72aa8348d91ff55b0359c441f8a2e3bc82be177ed89975025aa2b32de34b09\"",
+                "\"apple-domain-verification=VZse3PQypofizVfj\"",
+                "\"adobe-idp-site-verification=2265fe0e032bfd95522012da2d7a1bfe77b80c596e9b9d901f02fd5356dcddc2\"",
+                "\"ciscocidomainverification=7e72aa8348d91ff55b0359c441f8a2e3bc82be177ed89975025aa2b32de34b09\"",
+                "\"ciscocidomainverification=32ade0b0270c6e8fe212bc6cf3b1d9ab4574494cc66a5e79aeec56642d97bd7a\"",
+                "\"facebook-domain-verification=9keft74qgbjbnzfmav0oeloqxpiiuf\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "verisign.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "23.38.84.123",
+                    "country_code": "US",
+                    "asn_date": "2011-05-16",
+                    "reg_timestamp": "2016-06-09T12:59:41-04:00",
+                    "last_updated": "2016-06-09T12:59:41-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "20 mxb-00069f01.gslb.pphosted.com.",
+                "20 mxa-00069f01.gslb.pphosted.com."
+            ],
+            "NS": [
+                "ns1.p201.dns.oraclecloud.net.",
+                "ns4.p201.dns.oraclecloud.net.",
+                "ns3.p201.dns.oraclecloud.net.",
+                "ns2.p201.dns.oraclecloud.net."
+            ],
+            "SOA": [
+                "ns1.p201.dns.oraclecloud.net. hostmaster.addthis.com. 37 3600 600 604800 1800"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"globalsign-domain-verification=Wq9iztGUzQcBBi1OLrEOlXtefwOzX7yfvhbsw-CVdo\"",
+                "\"bzs3z25smxyylvxfjkr6vqmgp2tbgw42\"",
+                "\"pardot_92742_*=ec3c667bac55ced29c06395c567c68e2ddd44611bd74798e5c7ac890cc4c244a\"",
+                "\"prz8n91rvkmbyl171kwgx2wvwxbt8sg4\"",
+                "\"sj0v1trxt209h3xvhhjhky7jzb4ygxcy\"",
+                "\"v=spf1 a mx include:_netblocks.addthis.com include:spf.dynect.net include:aspmx.pardot.com include:_netblocks.eloqua.com include:oracleemaildelivery.com ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "addthis.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "216.239.32.29",
+                    "country_code": "US",
+                    "asn_date": "2000-11-22",
+                    "reg_timestamp": "2012-02-24T09:44:34-05:00",
+                    "last_updated": "2000-11-22T00:00:00-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 smtp.google.com."
+            ],
+            "NS": [
+                "ns1.google.com.",
+                "ns2.google.com.",
+                "ns4.google.com.",
+                "ns3.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:_spf.google.com ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "crashlytics.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "72.21.206.80",
+                    "country_code": "US",
+                    "asn_date": "2004-12-30",
+                    "reg_timestamp": "2015-09-24T16:20:14-04:00",
+                    "last_updated": "2004-12-30T14:16:49-05:00"
+                },
+                {
+                    "ip_address": "72.21.210.29",
+                    "country_code": "US",
+                    "asn_date": "2004-12-30",
+                    "reg_timestamp": "2015-09-24T16:20:14-04:00",
+                    "last_updated": "2004-12-30T14:16:49-05:00"
+                },
+                {
+                    "ip_address": "207.171.166.22",
+                    "country_code": "US",
+                    "asn_date": "1999-09-23",
+                    "reg_timestamp": "2015-09-24T16:19:42-04:00",
+                    "last_updated": "1999-09-23T00:00:00-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 amazon-smtp.amazon.com."
+            ],
+            "NS": [
+                "ns-1321.awsdns-37.org.",
+                "ns-1670.awsdns-16.co.uk.",
+                "ns-27.awsdns-03.com.",
+                "ns-967.awsdns-56.net."
+            ],
+            "SOA": [
+                "dns-external-master.amazon.com. hostmaster.amazon.com. 2016969706 180 60 2592000 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"atlassian-domain-verification=ZT4AapXgobCpXIWoNcd7gtMjZyOUdr4EDFMnFUWrqqqgdaQVbDvoGpRaIwj/tgPH\"",
+                "\"pf2vv39dfkf9tszsg5lggfs6tp6bkjn4\"",
+                "\"spf2.0/pra include:amazon.com ~all\"",
+                "\"v=spf1 include:amazon.com ~all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "amazonaws.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns-128.awsdns-16.com.",
+                "ns-1370.awsdns-43.org.",
+                "ns-1984.awsdns-56.co.uk.",
+                "ns-531.awsdns-02.net."
+            ],
+            "SOA": [
+                "ns-128.awsdns-16.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"pvvg3j4v342jbn5mjp3ggzw4b5s6rtjp\"",
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "quantserve.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "100 mx0a-00190b01.pphosted.com.",
+                "100 mx0b-00190b01.pphosted.com."
+            ],
+            "NS": [
+                "ns7-194.akamaiedge.net.",
+                "la1.akamaiedge.net.",
+                "ns5-194.akamaiedge.net.",
+                "a12-192.akamaiedge.net.",
+                "la3.akamaiedge.net.",
+                "a13-192.akamaiedge.net.",
+                "a28-192.akamaiedge.net.",
+                "a1-192.akamaiedge.net.",
+                "ns6-194.akamaiedge.net.",
+                "lar2.akamaiedge.net.",
+                "a11-192.akamaiedge.net.",
+                "a6-192.akamaiedge.net.",
+                "ns3-194.akamaiedge.net."
+            ],
+            "SOA": [
+                "internal.akamaiedge.net. hostmaster.akamai.com. 1559044082 90000 90000 90000 180"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"This\" \"is\" \"not\" \"the\" \"nameserver\" \"you\" \"are\" \"looking\" \"for.\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "akamaiedge.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "204.79.197.212",
+                    "country_code": "US",
+                    "asn_date": "1994-12-15",
+                    "reg_timestamp": "2021-12-14T20:28:36-05:00",
+                    "last_updated": "1994-12-15T00:00:00-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "2 live-com.olc.protection.outlook.com."
+            ],
+            "NS": [
+                "ns7-34.azure-dns.org.",
+                "ns5-34.azure-dns.com.",
+                "nse21.o365filtering.com.",
+                "nse13.o365filtering.com.",
+                "nse12.o365filtering.com.",
+                "ns1-34.azure-dns.com.",
+                "ns2-34.azure-dns.net.",
+                "ns8-34.azure-dns.info."
+            ],
+            "SOA": [
+                "ph0mgt0101dc003.prdmgt01.prod.exchangelabs.com. msnhst.microsoft.com. 2019518480 300 120 2419200 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=0mLTLcpaFxdFNO4m1TfqB2WQ4rGtz7xpPmFwDJ9O_9Q\"",
+                "\"v=spf1 include:spf-a.hotmail.com include:spf-b.hotmail.com include:spf-c.hotmail.com include:spf-d.hotmail.com include:spf.protection.outlook.com ~all\"",
+                "\"google-site-verification=DVGpQUbbQCBRPGlmWiTVUMyQGfLPlEVw6Z4pm39AAj4\"",
+                "\"facebook-domain-verification=atvthxwtzc3u4ubnsozavn76cusuaj\"",
+                "\"google-site-verification=N9kowue62gCm511Op0_N2LO1JZTcjA2GYzOE22SBaiI\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "live.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.250.66.8",
+                    "country_code": "US",
+                    "asn_date": "2012-05-24",
+                    "reg_timestamp": "2012-05-24T11:40:55-04:00",
+                    "last_updated": "2012-05-24T11:40:55-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2404:6800:4009:82c::2008",
+                    "country_code": "AU",
+                    "asn_date": "2008-09-30",
+                    "reg_timestamp": "2008-09-30T00:48:27Z",
+                    "last_updated": "2020-05-26T18:20:48Z"
+                }
+            ],
+            "MX": null,
+            "NS": [
+                "ns2.google.com.",
+                "ns4.google.com.",
+                "ns1.google.com.",
+                "ns3.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "googletagmanager.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.132.202.70",
+                    "country_code": "DE",
+                    "asn_date": "1990-03-26",
+                    "reg_timestamp": "2021-04-15T11:42:50Z",
+                    "last_updated": "2021-04-15T11:42:50Z"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns2.namebrightdns.com.",
+                "ns1.namebrightdns.com."
+            ],
+            "SOA": [
+                "ns1.namebrightdns.com. dns.namebright.com. 2023121101 28800 5000 1209600 10800"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "revsci.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "34.117.132.120",
+                    "country_code": "US",
+                    "asn_date": "2018-09-28",
+                    "reg_timestamp": "2018-09-28T10:45:41-04:00",
+                    "last_updated": "2018-09-28T10:45:37-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "pdns196.ultradns.co.uk.",
+                "pdns196.ultradns.org.",
+                "pdns196.ultradns.info.",
+                "pdns196.ultradns.com.",
+                "pdns196.ultradns.net.",
+                "pdns196.ultradns.biz."
+            ],
+            "SOA": [
+                "pdns196.ultradns.com. anthony\\.aris.neustar.biz. 2017095817 7200 1800 86400 10"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"cfr0806f01s7cxypcy1qtq6hnms7q75y\"",
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "adadvisor.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "35.244.159.8",
+                    "country_code": "US",
+                    "asn_date": "2017-09-29",
+                    "reg_timestamp": "2018-01-24T10:36:28-05:00",
+                    "last_updated": "2017-09-29T11:28:44-04:00"
+                },
+                {
+                    "ip_address": "34.98.64.218",
+                    "country_code": "US",
+                    "asn_date": "2018-09-28",
+                    "reg_timestamp": "2018-09-28T10:45:41-04:00",
+                    "last_updated": "2018-09-28T10:45:37-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "30 aspmx4.googlemail.com.",
+                "30 aspmx3.googlemail.com.",
+                "30 aspmx5.googlemail.com.",
+                "10 aspmx.l.google.com.",
+                "20 alt2.aspmx.l.google.com.",
+                "30 aspmx2.googlemail.com.",
+                "20 alt1.aspmx.l.google.com."
+            ],
+            "NS": [
+                "ns-cloud-c3.googledomains.com.",
+                "ns-cloud-c4.googledomains.com.",
+                "ns-cloud-c1.googledomains.com.",
+                "ns-cloud-c2.googledomains.com."
+            ],
+            "SOA": [
+                "ns-cloud-c1.googledomains.com. cloud-dns-hostmaster.google.com. 1 21600 3600 259200 300"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"lm0s40jlrqqwk30tcd5q0twpq789npv1\"",
+                "\"202308180056213zip0kbe58ia56lhl47acpzjkgcw5k15mwgedae1d81peefxzh\"",
+                "\"google-site-verification=AlQy_Z9DlhY6BXIK8D-tLn4i6eOeJ4AcbOt7RRTzPZo\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "openx.net"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "45.60.131.229",
+                    "country_code": "US",
+                    "asn_date": "2015-01-15",
+                    "reg_timestamp": "2021-12-14T20:28:49-05:00",
+                    "last_updated": "2015-01-15T08:58:28-05:00"
+                },
+                {
+                    "ip_address": "45.60.121.229",
+                    "country_code": "US",
+                    "asn_date": "2015-01-15",
+                    "reg_timestamp": "2021-12-14T20:28:49-05:00",
+                    "last_updated": "2015-01-15T08:58:28-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 digicert-com.mail.protection.outlook.com."
+            ],
+            "NS": [
+                "ns22.digicertdns.com.",
+                "ns0105.secondary.cloudflare.com.",
+                "ns21.digicertdns.com.",
+                "ns0160.secondary.cloudflare.com.",
+                "ns20.digicertdns.com.",
+                "ns24.digicertdns.net.",
+                "ns25.digicertdns.net.",
+                "ns23.digicertdns.net."
+            ],
+            "SOA": [
+                "ns20.digicertdns.com. dns.digicertdns.com. 2009020279 43200 3600 1209600 180"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"miro-verification=31e307c1dc4ae6591a1edd5c7dcf58c678b54d32\"",
+                "\"pax8validate\"",
+                "\"atlassian-domain-verification=/d+HEyZ/KMJ86EO42QuM+xsCy/NYRORirQapa7A521Lw2DAfpubWhSPL218lICJ7\"",
+                "\"c3cfbc958c404c659f758cdd4dc2ae0e\"",
+                "\"google-gws-recovery-domain-verification=48029321\"",
+                "\"kUy+EQPWJE5P7A19foqNx806Ir1KXvwbqbedXmbobf/C+X25pgY1YJ1GVX8rj6VdvXnUvqabmtdTO9VF75StGg==\"",
+                "\"docker-verification=1608c704-787a-464a-8f5f-4d19c1c3e0aa\"",
+                "\"fastly-domain-delegation-3t4rfpsjms3gfs7ifvcc-716488-2023-11-22\"",
+                "\"onetrust-domain-verification=f8a2f79b8dab41a492aaaa52e613a679\"",
+                "\"l685v6cy93xkw8pgppy4ms518l61ql0t\"",
+                "\"v=spf1 ip4:64.58.225.115 ip4:64.58.225.116 ip4:64.78.193.232 ip4:34.213.233.92 ip4:198.21.5.209 ip4:50.31.57.204 ip4:167.89.110.192 ip4:167.89.126.180 ip4:216.168.241.229 ip4:216.168.252.55 ip4:69.58.183.55 ip4:142.0.167.188 ip4:61.198.17.0/25 ip4:61.198.\" \"26.96/27 ip4:202.32.181.0/25 ip4:61.203.134.224/27 ip4:210.237.158.192/27 ip4:211.133.252.0/25 ip4:219.160.177.20 ip4:202.65.18.60 ip4:91.240.105.37 ip4:202.65.16.36 ip4:64.19.218.10 ip4:64.19.218.132 ip4:142.0.167.189 ip4:142.0.167.190 ip4:202.65.20.12 i\" \"p4:216.168.247.10 ip4:35.174.145.124 ip4:216.230.14.232 ip4:198.207.147.232 ip4:216.168.244.37 ip4:44.230.95.124 ip4:23.21.109.197 ip4:23.21.109.212 ip4:147.160.167.0/26 include:spf.protection.outlook.com include:_spf.salesforce.com include:sent-via.netsu\" \"ite.com -all\"",
+                "\"QuoVadis=8689a090-cbf6-4aff-8fb7-3416494f1f6f\"",
+                "\"PDDL96o0kJXfsY1UKWkj8_-WiQ\"",
+                "\"adobe-idp-site-verification=0575680fbf675a4b870e0423b2b288e8f93b19b571ff480a0b235b52428e76f4\"",
+                "\"apple-domain-verification=LysAWG6wOID76rWM\"",
+                "\"pjzx2ldzjbycl42tc85lm8zm05kxc5b9\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "digicert.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "15.197.165.128",
+                    "country_code": "US",
+                    "asn_date": "2021-01-28",
+                    "reg_timestamp": "2022-04-26T10:06:24-04:00",
+                    "last_updated": "2021-01-28T14:18:31-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 pubmatic-com.mail.protection.outlook.com."
+            ],
+            "NS": [
+                "dns1.p01.nsone.net.",
+                "dns2.p01.nsone.net.",
+                "dns3.p01.nsone.net.",
+                "dns4.p01.nsone.net."
+            ],
+            "SOA": [
+                "dns1.p01.nsone.net. hostmaster.nsone.net. 1647966837 3600 600 604800 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=Jn4Jtz0fCWQxljwA2-D15cbK1zLSMuLFANANTeAu4UM\"",
+                "\"pardot_214271_*=d91debdeb5dc3f241f55d67d2d6396d8f7f8f6a1791396b9e1f64f56df382f32\"",
+                "\"cloudflare-verify.cf-track.pubmatic.com 467256112-109945960\"",
+                "\"hes=7e94a34b26db97ef237e11205058c0fb\"",
+                "\"zoom=9694355\" \"ca3-06b3a0af34c24f35b9d6441fb0ee7b0e\"",
+                "\"v=spf1 ip4:52.8.26.248 ip4:162.248.16.14 ip4:74.199.212.72 include:_spf-dc41.sapsf.com include:_spf.salesforce.com include:aspmx.pardot.com include:_spf.qualtrics.com include:spf.protection.outlook.com include:spf.tipalti.com include:mail.zendesk.com incl\" \"ude:_spf.psm.knowbe4.com -all\"",
+                "\"google-site-verification=4x3AESePyWUn3Fyfirac5BT57SUokyyYZhdZ331OmpQ\"",
+                "\"MS=ms97294344\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "pubmatic.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "pdns196.ultradns.org.",
+                "pdns196.ultradns.com.",
+                "pdns196.ultradns.biz.",
+                "pdns196.ultradns.info.",
+                "pdns196.ultradns.net.",
+                "pdns196.ultradns.co.uk."
+            ],
+            "SOA": [
+                "pdns196.ultradns.com. ops.aggregateknowledge.com. 2017069084 3600 600 604800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"crv5y78hjyt13xwwpq8pn184nh7c7t1l\"",
+                "\"gfksd32sk5c6v6hhsfz9p8h2qh7qlgwg\"",
+                "\"v=spf1 -all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "agkn.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "157.240.1.174",
+                    "country_code": "US",
+                    "asn_date": "2015-05-14",
+                    "reg_timestamp": "2021-12-14T20:28:52-05:00",
+                    "last_updated": "2015-05-14T15:30:19-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2a03:2880:f26b:e6:face:b00c:0:4420",
+                    "country_code": "IE",
+                    "asn_date": "2011-08-22",
+                    "reg_timestamp": "2015-09-24T12:59:37Z",
+                    "last_updated": "2022-10-29T00:51:39Z"
+                }
+            ],
+            "MX": [
+                "10 mxa-00082601.gslb.pphosted.com.",
+                "10 mxb-00082601.gslb.pphosted.com."
+            ],
+            "NS": [
+                "a.ns.instagram.com.",
+                "d.ns.instagram.com.",
+                "c.ns.instagram.com.",
+                "b.ns.instagram.com."
+            ],
+            "SOA": [
+                "a.ns.instagram.com. dns.facebook.com. 3758941013 14400 1800 604800 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 include:facebookmail.com include:_spf.fb.com -all\"",
+                "\"ms=ms86975275\"",
+                "\"nEXgIFIbDifAKlSMQvAhly5SA-vpsAkm5wiOdwdkrzY\"",
+                "\"4cbb1b68-601f-4801-8e7f-e8f68a4a41dd\"",
+                "\"adobe-idp-site-verification=367fda82-a8bb-46cf-9cff-0062d452d229\"",
+                "\"hyWdekepiNsp/V9b1JCR+wZDdzbESurl4GqY+FLMfiN+7aeFaway0Art+kNDHeL5OnGZipNeV/iIC+lOONSQVQ==\"",
+                "\"google-site-verification=GGtId51KFyq0hqX2xNvt1u0P9Xp0C7k6pp9do49fCNw\"",
+                "\"google-site-verification=_iQgLr68Rdg7YnN2PqOljSG5dnWOFUUXISF9R77fs5c\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "instagram.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "74.121.140.207",
+                    "country_code": "US",
+                    "asn_date": "2010-01-19",
+                    "reg_timestamp": "2021-12-14T20:28:46-05:00",
+                    "last_updated": "2010-01-19T18:13:25-05:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 mathtag-com.mail.protection.outlook.com."
+            ],
+            "NS": [
+                "dns3.p01.nsone.net.",
+                "dns2.p01.nsone.net.",
+                "dns4.p01.nsone.net.",
+                "dns1.p01.nsone.net."
+            ],
+            "SOA": [
+                "dns1.p01.nsone.net. hostmaster.mediamath.com. 1680551232 3600 600 604800 120"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"MS=ms19540014\"",
+                "\"_globalsign-domain-verification=Fw09cFhmPL_-Bfg6BV5_NkyDEkXJfmQd4uPViX560A\"",
+                "\"v=spf1 include:spf.protection.outlook.com -all\"",
+                "\"w6w6z6qjhwlvw5t4fctdqzy5qrqpzz6j\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "mathtag.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "142.251.42.101",
+                    "country_code": "US",
+                    "asn_date": "2012-05-24",
+                    "reg_timestamp": "2012-05-24T11:40:55-04:00",
+                    "last_updated": "2012-05-24T11:40:55-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "20 alt2.gmail-smtp-in.l.google.com.",
+                "40 alt4.gmail-smtp-in.l.google.com.",
+                "30 alt3.gmail-smtp-in.l.google.com.",
+                "5 gmail-smtp-in.l.google.com.",
+                "10 alt1.gmail-smtp-in.l.google.com."
+            ],
+            "NS": [
+                "ns3.google.com.",
+                "ns4.google.com.",
+                "ns1.google.com.",
+                "ns2.google.com."
+            ],
+            "SOA": [
+                "ns1.google.com. dns-admin.google.com. 589555543 900 900 1800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=\"",
+                "\"v=spf1 redirect=_spf.google.com\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "gmail.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "ns-1306.awsdns-35.org.",
+                "ns-1925.awsdns-48.co.uk.",
+                "ns-45.awsdns-05.com.",
+                "ns-662.awsdns-18.net."
+            ],
+            "SOA": [
+                "ns-45.awsdns-05.com. awsdns-hostmaster.amazon.com. 2012040900 7200 900 1209600 86400"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=5Nvkhi69l5VGgYjP2kVyJjCJv3MauYovmKDNyqWpUjY\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "rlcdn.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "13.107.42.14",
+                    "country_code": "US",
+                    "asn_date": "2015-03-26",
+                    "reg_timestamp": "2021-12-14T20:28:53-05:00",
+                    "last_updated": "2015-03-26T13:58:18-04:00"
+                }
+            ],
+            "AAAA": [
+                {
+                    "ip_address": "2620:1ec:21::14",
+                    "country_code": "US",
+                    "asn_date": "2015-03-11",
+                    "reg_timestamp": "2021-12-14T20:28:32-05:00",
+                    "last_updated": "2015-03-11T14:29:14-04:00"
+                }
+            ],
+            "MX": [
+                "10 mail-c.linkedin.com.",
+                "10 mail-d.linkedin.com.",
+                "20 mail.linkedin.com.",
+                "10 mail-a.linkedin.com."
+            ],
+            "NS": [
+                "dns1.p09.nsone.net.",
+                "dns2.p09.nsone.net.",
+                "dns3.p09.nsone.net.",
+                "dns4.p09.nsone.net.",
+                "ns1-42.azure-dns.com.",
+                "ns2-42.azure-dns.net.",
+                "ns3-42.azure-dns.org.",
+                "ns4-42.azure-dns.info."
+            ],
+            "SOA": [
+                "ns1-42.azure-dns.com. hostmaster.linkedin.com. 1 3600 300 604800 60"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=8LaIeBMwr6K8qWeaGa4CEmfPKiZDwaT38t5mIrtaroI\"",
+                "\"v=spf1 ip4:199.101.162.0/25 ip4:108.174.3.0/24 ip4:108.174.6.0/24 ip4:108.174.0.0/24 ip6:2620:109:c00d:104::/64 ip6:2620:109:c006:104::/64 ip6:2620:109:c003:104::/64 ip6:2620:119:50c0:207::/64 ip4:199.101.161.130 mx mx:docusign.net ~all\"",
+                "\"448e0dc03e935ecf66d81f1ce3c26b2f2fea13756c031ffc4be91749107f3a79\"",
+                "\"docusign=11f01284-dffc-40f9-8d56-57e5261ede3f\"",
+                "\"google-site-verification=anx3jpa6VKkTWRJKnglUIzm7UEn-ZCT2WqAfG7h-xOg\"",
+                "\"bf5fl8sny79w4c70jxp6cp3crkqtr7qk\"",
+                "\"miro-verification=260f00146b6d2ad1bb70d6dc07a077b672badd28\"",
+                "\"google-site-verification=X0LoSQsAMzR-TK4o-ULrYAwLi_fyopfRLkm_C-4N4Ts\"",
+                "\"atlassian-domain-verification=dDed2VFvlDajBX8X22w52Jx/W/YLHR81SxUuraa9zNdz4aLjDS/RpfN11w2bxpRc\"",
+                "\"google-site-verification=vfmYHwjzUIFPzxFcyuwEToh_1kG9wvcpGgJnB-MhQn8\"",
+                "\"google-site-verification=VE9BWhjbPPNmbr3ZJcwn5hLTsz7c5KPt3zXdYyaSnSQ\"",
+                "\"google-site-verification=xAGz495k8RbGclhamQx1TkZSHDxOaEd95fOjc8xpbTA\"",
+                "\"AFDVALIDATION=LinkedIn\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "linkedin.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "13.251.69.97",
+                    "country_code": "US",
+                    "asn_date": "2018-07-11",
+                    "reg_timestamp": "2021-02-10T09:46:03-05:00",
+                    "last_updated": "2017-07-24T09:28:39-04:00"
+                },
+                {
+                    "ip_address": "13.49.212.207",
+                    "country_code": "US",
+                    "asn_date": "2020-08-05",
+                    "reg_timestamp": "2021-02-10T09:46:02-05:00",
+                    "last_updated": "2019-01-07T16:43:17-05:00"
+                },
+                {
+                    "ip_address": "34.213.101.254",
+                    "country_code": "US",
+                    "asn_date": "2016-09-12",
+                    "reg_timestamp": "2016-09-12T15:01:56-04:00",
+                    "last_updated": "2016-09-12T15:01:56-04:00"
+                },
+                {
+                    "ip_address": "13.50.184.192",
+                    "country_code": "US",
+                    "asn_date": "2020-08-05",
+                    "reg_timestamp": "2021-02-10T09:46:02-05:00",
+                    "last_updated": "2020-09-16T21:06:24-04:00"
+                },
+                {
+                    "ip_address": "44.228.206.170",
+                    "country_code": "US",
+                    "asn_date": "2019-07-18",
+                    "reg_timestamp": "2019-08-01T16:13:54-04:00",
+                    "last_updated": "2019-08-01T16:13:54-04:00"
+                },
+                {
+                    "ip_address": "54.161.105.65",
+                    "country_code": "US",
+                    "asn_date": "2014-10-23",
+                    "reg_timestamp": "2021-02-10T09:46:13-05:00",
+                    "last_updated": "2014-10-23T00:00:00-04:00"
+                },
+                {
+                    "ip_address": "18.136.37.69",
+                    "country_code": "US",
+                    "asn_date": "2019-10-07",
+                    "reg_timestamp": "2021-02-10T09:46:11-05:00",
+                    "last_updated": "2018-02-22T16:01:16-05:00"
+                },
+                {
+                    "ip_address": "34.225.127.72",
+                    "country_code": "US",
+                    "asn_date": "2016-09-12",
+                    "reg_timestamp": "2016-09-12T15:01:56-04:00",
+                    "last_updated": "2016-09-12T15:01:56-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "0 ."
+            ],
+            "NS": [
+                "ns5.yahoo.com.",
+                "ns3.yahoo.com.",
+                "ns1.yahoo.com.",
+                "ns2.yahoo.com.",
+                "ns4.yahoo.com."
+            ],
+            "SOA": [
+                "hidden-master.yahoo.com. hostmaster.yahoo-inc.com. 2023120501 28800 3600 1814400 600"
+            ],
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "yahooapis.com"
+        },
+        {
+            "A": [
+                {
+                    "ip_address": "52.217.254.21",
+                    "country_code": "US",
+                    "asn_date": "2015-09-02",
+                    "reg_timestamp": "2020-09-24T12:40:30-04:00",
+                    "last_updated": "2015-09-02T14:06:36-04:00"
+                },
+                {
+                    "ip_address": "52.216.25.131",
+                    "country_code": "US",
+                    "asn_date": "2015-09-02",
+                    "reg_timestamp": "2020-09-24T12:40:30-04:00",
+                    "last_updated": "2015-09-02T14:06:36-04:00"
+                },
+                {
+                    "ip_address": "52.217.95.45",
+                    "country_code": "US",
+                    "asn_date": "2015-09-02",
+                    "reg_timestamp": "2020-09-24T12:40:30-04:00",
+                    "last_updated": "2015-09-02T14:06:36-04:00"
+                },
+                {
+                    "ip_address": "52.217.0.66",
+                    "country_code": "US",
+                    "asn_date": "2015-09-02",
+                    "reg_timestamp": "2020-09-24T12:40:30-04:00",
+                    "last_updated": "2015-09-02T14:06:36-04:00"
+                },
+                {
+                    "ip_address": "16.182.34.205",
+                    "country_code": "US",
+                    "asn_date": "2020-11-18",
+                    "reg_timestamp": "2022-10-20T13:23:50-04:00",
+                    "last_updated": "2020-11-18T16:58:21-05:00"
+                },
+                {
+                    "ip_address": "52.216.128.50",
+                    "country_code": "US",
+                    "asn_date": "2015-09-02",
+                    "reg_timestamp": "2020-09-24T12:40:30-04:00",
+                    "last_updated": "2015-09-02T14:06:36-04:00"
+                },
+                {
+                    "ip_address": "52.216.106.219",
+                    "country_code": "US",
+                    "asn_date": "2015-09-02",
+                    "reg_timestamp": "2020-09-24T12:40:30-04:00",
+                    "last_updated": "2015-09-02T14:06:36-04:00"
+                },
+                {
+                    "ip_address": "52.216.44.5",
+                    "country_code": "US",
+                    "asn_date": "2015-09-02",
+                    "reg_timestamp": "2020-09-24T12:40:30-04:00",
+                    "last_updated": "2015-09-02T14:06:36-04:00"
+                }
+            ],
+            "AAAA": null,
+            "MX": [
+                "10 aspmx.l.google.com.",
+                "20 alt1.aspmx.l.google.com.",
+                "20 alt2.aspmx.l.google.com.",
+                "30 aspmx2.googlemail.com.",
+                "30 aspmx3.googlemail.com.",
+                "30 aspmx4.googlemail.com.",
+                "30 aspmx5.googlemail.com."
+            ],
+            "NS": [
+                "ns-125.awsdns-15.com.",
+                "ns-1329.awsdns-38.org.",
+                "ns-1726.awsdns-23.co.uk.",
+                "ns-905.awsdns-49.net."
+            ],
+            "SOA": [
+                "ns-1726.awsdns-23.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 1800"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"google-site-verification=yil_2PQBNufDA4_Vv9fANnkfC8nF0aoWUuyJaovMEU0\"",
+                "\"v=spf1 include:aspmx.sailthru.com a:smtp.zendesk.com include:support.zendesk.com include:_spf.google.com ?all\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "chartbeat.net"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": [
+                "a.r06.twtrdns.net.",
+                "a.u06.twtrdns.net.",
+                "b.r06.twtrdns.net.",
+                "b.u06.twtrdns.net.",
+                "c.r06.twtrdns.net.",
+                "c.u06.twtrdns.net.",
+                "d.r06.twtrdns.net.",
+                "d.u06.twtrdns.net."
+            ],
+            "SOA": [
+                "a.u06.twtrdns.net. noc\\@twitter.com. 2023121101 3600 600 604800 600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"globalsign-domain-verification=bViTkLNOl0oU8pU9J7DNDhs9ZNHa2YYaaqCvbk2rxK\"",
+                "\"m5q7b5h2kd5j0dph998lg0lk3ct5hw21\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "twimg.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": [
+                "5 alt2.aspmx.l.google.com.",
+                "5 alt1.aspmx.l.google.com.",
+                "10 alt4.aspmx.l.google.com.",
+                "10 alt3.aspmx.l.google.com.",
+                "1 aspmx.l.google.com."
+            ],
+            "NS": [
+                "asia3.akam.net.",
+                "ns1-25.akam.net.",
+                "use1.akam.net.",
+                "use10.akam.net.",
+                "eur5.akam.net.",
+                "usw4.akam.net.",
+                "ns1-194.akam.net.",
+                "usw1.akam.net."
+            ],
+            "SOA": [
+                "ops001.sjc2.turn.com. operations.turn.com. 2023111401 3600 900 1814400 3600"
+            ],
+            "CNAME": null,
+            "TXT": [
+                "\"v=spf1 ip4:8.22.37.128/29 ip4:8.22.36.129/29 ip4:69.194.241.12 ip4:50.116.193.12 ip4:46.228.172.220 ip4:50.116.239.8/29 ip4:69.194.242.240/29 ip4:50.116.210.64/28 ip4:46.228.175.8/29\" \" include:mktomail.com include:_spf.google.com ~all\"",
+                "\"nnpq535y72bhk7sm0rlm8ss1dht2brdt\""
+            ],
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "turn.com"
+        },
+        {
+            "A": null,
+            "AAAA": null,
+            "MX": null,
+            "NS": null,
+            "SOA": null,
+            "CNAME": null,
+            "TXT": null,
+            "SRV": null,
+            "PTR": null,
+            "domain_name": "crwdcntrl.ne"
+        }
+    ]
+}
