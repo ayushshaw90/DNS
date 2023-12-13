@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
+
+body{
+   background-image: url("https://res.cloudinary.com/ddtzbznea/image/upload/v1702451202/body-background_fjpgch.png"); 
+  
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  
+  /* background-size: contain; */
+  font-family: quattrocento;
+  font-weight: lighter;
+  
+}
+.hello{
+   background-image: url("https://res.cloudinary.com/ddtzbznea/image/upload/v1702217594/DataFunnel_sy0wjz.png");
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loader {
+  border-top-color:#60b6f0;
+  animation: spin 1.5s infinite linear;
+}
