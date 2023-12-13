@@ -3,17 +3,12 @@ from collections import Counter
 import math
 
 
-def extract_domain_features(domain):
+def extract_domain_name_features(domain):
     features = {}
 
     # Split the domain into subdomains and TLD (Top-Level Domain)
     ext = tldextract.extract(domain)
     
-    print(ext)
-    print(ext.suffix)
-    print(ext.domain)
-    print(ext.subdomain)
-
     # Full domain
     features['full_domain'] = domain
     
@@ -23,10 +18,17 @@ def extract_domain_features(domain):
     # Domain and Subdomain lengths
     features['full_domain_length'] = len(domain)
     features['domain_length'] = len(ext.domain)
-    features['subdomain_length'] = len(ext.subdomain)
     
     # Check if the domain has a subdomain
     features['has_subdomain'] = 1 if ext.subdomain else 0
+
+    features['subdomain_length'] = len(ext.subdomain)
+
+    #Calculating the number of subdomains
+    features['subdomains_count'] = count_number_of_subdomains(domain)
+    
+    #Calculating the average length of subdomains
+    features['avg_subdomain_length'] = calculate_average_subdomain_length(domain)
     
     #Calculating the entropy of the domain name
     features['entropy_of_domain'] = calculate_entropy(domain)
@@ -37,19 +39,12 @@ def extract_domain_features(domain):
     #Calculating the ratio of alphanumeric characters in the domain name
     features['alphanumeric_ratio'] = calculate_alphanumeric_ratio(domain)
     
-    #Calculating the number of subdomains
-    features['subdomains_count'] = count_number_of_subdomains(domain)
-    
-    #Calculating the average length of subdomains
-    features['avg_subdomain_length'] = calculate_average_subdomain_length(domain)
-    
     #calculating the ratio of numeric characters in the domain name
     features['numeric_ratio'] = calculate_numeric_ratio(domain)
     
     #Calculating the ratio of special characters in the domain name
     features['special_char_ratio'] = calculate_special_char_ratio(domain)
     
-
     return features
 
 ################################################################################################

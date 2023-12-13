@@ -1,5 +1,7 @@
 import pandas as pd
-from utils.generate_domain_name_features import extract_domain_features
+from utils.generate_domain_name_features import extract_domain_name_features
+from utils.generate_response_related_features import extract_features_from_response
+from utils.generate_whois_features import get_domain_info
 
 def main():  
     
@@ -8,7 +10,7 @@ def main():
     df_malicious = pd.read_csv(r'data/malicious_domain_response.csv')
     
     df_normal['label'] = 0
-    df_malicious['label'] = 1 
+    df_malicious['label'] = 1
     
     # Concatenate the dataframes
     df = pd.concat([df_normal, df_malicious])
@@ -18,18 +20,49 @@ def main():
     df.drop('CNAME__-',axis=1,inplace=True)
     
     df = df.drop_duplicates(subset=['domain_name'])
+
+    df = df[df['domain_name'].notna() & (df['domain_name'] != '')]
+
+    df = df[df['A__ip_address'].notna()]
     
     df = df.drop(['A', 'AAAA', 'MX', 'NS', 'SOA', 'CNAME', 'TXT', 'SRV', 'PTR'], axis=1)
-    
-    ###### Generating features by analysing the domain name ######
-    
-    dict = {}
-    dict = extract_domain_features('xxxxxxxxxxxxxxxxxxxxx.xmail.google.com')
-    #print(df.head(1))
-    print(dict)
-    
-    # Save the new dataset
-    # original_dataset.to_csv('data/output/new_dataset.csv', index=False)
 
+    dataset = []
+    
+    for index, row in df.iterrows():
+      features_row =  generate_features_for_dataset_from_response(row)
+      dataset.append(features_row)
+    
+    dataset_df = pd.DataFrame(dataset)
+
+    dataset_df.to_csv(r'data/generated_dataset_from_dns_response.csv', index=False)
+
+    #####################################
+    
+    #this method takes one row from the dataframe and generates a row of features for it
+def generate_features_for_dataset_from_response(df_series):
+   df = df_series.to_frame().transpose()
+   print(df)
+   merged_dict = {}
+   
+   dict1 = {}
+   dict1 = extract_domain_name_features(df['domain_name'].iloc[0])
+  # print('dict1############\n')
+   #print(dict1)
+   
+   dict2 = {}  
+   dict2 = extract_features_from_response(df)
+  # print('dict3############\n')
+  # print(dict2)
+
+   dict3 = {}
+   dict3 = get_domain_info(df['domain_name'].iloc[0])
+  # print('dict3############\n')
+   #print(dict3)
+
+   merged_dict = {**dict1, **dict2, **dict3}
+  # print(merged_dict)
+   return merged_dict
+  
 if __name__ == "__main__":
     main()
