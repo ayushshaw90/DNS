@@ -19,7 +19,6 @@ def main():
 
     convert_json_response_to_csv(json_response_malicious,True)
 
-
     # Load original dataset
     df_normal = pd.read_csv(r'data/dnsdata_top_domains.csv')
     df_malicious = pd.read_csv(r'data/malicious_domain_response.csv')
@@ -62,8 +61,8 @@ def generate_features_for_dataset_from_response(df_series):
    
    dict1 = {}
    dict1 = extract_domain_name_features(df['domain_name'].iloc[0])
-  # print('dict1############\n')
-   #print(dict1)
+   #print('dict1############\n')
+   print(dict1)
    
    dict2 = {}  
    dict2 = extract_features_from_response(df)
@@ -72,7 +71,7 @@ def generate_features_for_dataset_from_response(df_series):
 
    dict3 = {}
    dict3 = get_domain_info(df['domain_name'].iloc[0])
-  # print('dict3############\n')
+   #print('dict3############\n')
    #print(dict3)
 
    merged_dict = {**dict1, **dict2, **dict3}
@@ -109,7 +108,6 @@ def convert_json_response_to_csv(json_response,isMalicious):
         'MX__007': record.get('MX')[6] if record.get('MX') and len(record.get('MX')) > 6 else None,
         'MX__008': record.get('MX')[7] if record.get('MX') and len(record.get('MX')) > 7 else None,
         # Add more columns for MX__002, MX__003, and so on as needed
-
         'NS__001': record.get('NS')[0] if record.get('NS') and len(record.get('NS')) > 0 else None,
         'NS__002': record.get('NS')[1] if record.get('NS') and len(record.get('NS')) > 1 else None,
         'NS__003': record.get('NS')[2] if record.get('NS') and len(record.get('NS')) > 2 else None,

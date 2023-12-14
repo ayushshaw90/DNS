@@ -25,16 +25,16 @@ def extract_domain_name_features(domain):
     features['subdomain_length'] = len(ext.subdomain)
 
     #Calculating the number of subdomains
-    features['subdomains_count'] = count_number_of_subdomains(domain)
+    features['subdomains_count'] = count_number_of_subdomains(ext)
     
     #Calculating the average length of subdomains
-    features['avg_subdomain_length'] = calculate_average_subdomain_length(domain)
+    features['avg_subdomain_length'] = calculate_average_subdomain_length(ext)
     
     #Calculating the entropy of the domain name
     features['entropy_of_domain'] = calculate_entropy(domain)
     
     #Caluclating the average entropy of subdomains
-    features['avg_entropy_of_subdomains'] = calculate_average_entropy_of_subdomains(domain)
+    features['avg_entropy_of_subdomains'] = calculate_average_entropy_of_subdomains(ext)
     
     #Calculating the ratio of alphanumeric characters in the domain name
     features['alphanumeric_ratio'] = calculate_alphanumeric_ratio(domain)
@@ -62,12 +62,12 @@ def calculate_entropy(domain):
     
     return entropy
 
-def calculate_average_entropy_of_subdomains(domain):
+def calculate_average_entropy_of_subdomains(ext):
+
+    if ext.subdomain == '':
+        return 0.0
     # Split the domain into subdomains using the dot separator
-    subdomains = domain.split('.')
-    
-    if(len(subdomains) == 2):
-        return 0
+    subdomains = ext.subdomain.split('.')
     
     # Calculate the entropy of each subdomain
     subdomain_entropies = [calculate_entropy(sub) for sub in subdomains]
@@ -88,24 +88,24 @@ def calculate_alphanumeric_ratio(domain):
     
     return alphanumeric_ratio
 
-def count_number_of_subdomains(domain):
-    # Split the domain into subdomains using the dot separator
-    subdomains = domain.split('.')
-    
-    if(len(subdomains) <= 2):
-        return 0
-    else:
-        return len(subdomains) -2
+def count_number_of_subdomains(ext):
+    if ext.subdomain == '':
+        return 0.0
 
-def calculate_average_subdomain_length(domain):
-    # Split the domain into subdomains using the dot separator
-    subdomains = domain.split('.')
+    subdomains = ext.subdomain.split('.')
+    print(subdomains)
+    print(len(subdomains))
     
-    if(len(subdomains) <= 2):
-        return 0
+    return len(subdomains)
 
-    # Exclude TLD and second-level domain (last two segments)
-    subdomains_to_consider = subdomains[:-2] 
+
+def calculate_average_subdomain_length(ext):
+    if ext.subdomain == '':
+        return 0.0
+    # Split the domain into subdomains using the dot separator
+    subdomains = ext.subdomain.split('.')
+
+    subdomains_to_consider = subdomains
 
     # Calculate the length of each subdomain
     subdomain_lengths = [len(sub) for sub in subdomains_to_consider]
@@ -122,7 +122,7 @@ def calculate_numeric_ratio(domain):
     total_length = len(domain)
     
     if(total_length == 0):
-        return 0
+        return 0.0
     
     numeric_ratio = numeric_count / total_length
     

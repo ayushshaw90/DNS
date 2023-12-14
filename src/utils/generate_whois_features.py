@@ -36,6 +36,8 @@ def get_domain_info(domain_name):
         organization_name = domain_info.get('org', None)
         features['organization_name'] = organization_name
 
+        features['has_organization_name'] = 1 if organization_name else 0
+
         #domain_status = domain_info.get('status', None)
        # features['domain_status'] = domain_status
 
