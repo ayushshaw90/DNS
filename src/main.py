@@ -3,21 +3,22 @@ import json
 from utils.generate_domain_name_features import extract_domain_name_features
 from utils.generate_response_related_features import extract_features_from_response
 from utils.generate_whois_features import get_domain_info
+from utils.generate_preprocessed_data_for_prediction import preprocess_data_of_dataset
 
 def main():  
     
-    json_file_path_top_domains= r'data/dnsdata_top_domains.json'
-    json_file_path_malicious_domains = r'data/malicious_domain_response.json'
+    # json_file_path_top_domains= r'data/dnsdata_top_domains.json'
+    # json_file_path_malicious_domains = r'data/malicious_domain_response.json'
 
-    with open(json_file_path_top_domains) as file:
-        json_response_normal = json.load(file)
+    # with open(json_file_path_top_domains) as file:
+    #     json_response_normal = json.load(file)
 
-    convert_json_response_to_csv(json_response_normal,False)
+    # convert_json_response_to_csv(json_response_normal,False)
 
-    with open(json_file_path_malicious_domains) as file:
-        json_response_malicious = json.load(file)
+    # with open(json_file_path_malicious_domains) as file:
+    #     json_response_malicious = json.load(file)
 
-    convert_json_response_to_csv(json_response_malicious,True)
+    # convert_json_response_to_csv(json_response_malicious,True)
 
     # Load original dataset
     df_normal = pd.read_csv(r'data/dnsdata_top_domains.csv')
@@ -40,18 +41,20 @@ def main():
     
     df = df.drop(['A', 'AAAA', 'MX', 'NS', 'SOA', 'CNAME', 'TXT', 'SRV', 'PTR'], axis=1)
 
-    dataset = []
-    
-    for index, row in df.iterrows():
-      features_row =  generate_features_for_dataset_from_response(row)
-      dataset.append(features_row)
-    
-    dataset_df = pd.DataFrame(dataset)
+    X_train, X_test, y_train, y_test, scaler = preprocess_data_of_dataset(df)
 
-    dataset_df.to_csv(r'data/generated_dataset_from_dns_response.csv', index=False)
+    # dataset = []
+    
+    # for index, row in df.iterrows():
+    #   features_row =  generate_features_for_dataset_from_response(row)
+    #   dataset.append(features_row)
+    
+    # dataset_df = pd.DataFrame(dataset)
+
+    # dataset_df.to_csv(r'data/generated_dataset_from_dns_response.csv', index=False)
     
 
-    #####################################
+    #------------------------------------------------------------------------------------#
     
     #this method takes one row from the dataframe and generates a row of features for it
 def generate_features_for_dataset_from_response(df_series):
