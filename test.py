@@ -45,8 +45,8 @@ def dns_proxy():
     # Create a UDP socket to listen for DNS requests
     with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as proxy_socket:
         # Bind the socket to a specific address and port
-        proxy_socket.bind(('127.0.0.1', 53))
-        print("DNS proxy is running on 127.0.0.1:53")
+        proxy_socket.bind(('127.0.0.1', 5353))
+        print("DNS proxy is running on 127.0.0.1:5353")
 
         while True:
             # Receive data and address from the client
