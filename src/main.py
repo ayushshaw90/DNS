@@ -1,68 +1,55 @@
 import pandas as pd
-from utils.generate_domain_name_features import extract_domain_name_features
-from utils.generate_response_related_features import extract_features_from_response
-from utils.generate_whois_features import get_domain_info
+import numpy as np
+from utils.data_preprocessor import preprocess_data_of_dataset
+from utils.json_to_csv_converter import json_to_csv_converter_dataset
+from utils.make_dataset import generate_dataset_from_csv_dns_response
+from utils.split_dataset_into_train_and_test import train_and_test_data_splitter
+from sklearn.preprocessing import StandardScaler
+
 
 def main():  
     
-    # Load original dataset
-    df_normal = pd.read_csv(r'data/dnsdata_top_domains.csv')
-    df_malicious = pd.read_csv(r'data/malicious_domain_response.csv')
+    #CONVERT JSON RESPONSE TO CSV DATASET.
+    json_to_csv_converter_dataset()# converts the json datasets to csv datasets
+
+    #GENERATE FEATURE RICH DATASET FROM CSV DNS DATASETS.
+    generate_dataset_from_csv_dns_response() # generates the feature rich dataset from the csv datasets
+
+    #LOAD THE FEATURE RICH DATASET
+    df = pd.read_csv(r'data/generated_dataset_from_dns_response.csv')
+
+    #PREPROCESS THE DATASET
+    df = preprocess_data_of_dataset(df)
+
+    #SPLIT THE DATASET INTO TRAIN AND TEST
+    X_train, X_test, y_train, y_test = train_and_test_data_splitter(df) 
+
+    #perform standardization to scale the data
+    X_train, X_test, scaler = perform_standardization(X_train, X_test)
+
+    #-----------------------------------#
+
+
+    # # Preprocess incoming data (using the preprocessor object or pipeline created during training)
+    # preprocessed_input_data = preprocessor.transform(input_data)  # Adjust based on your preprocessor object or pipeline
+
+    # # Load the trained model
+    # loaded_model = load_model('path/to/saved_model.pkl')  # Replace 'load_model' with your specific model loading function
+
+    # # Make predictions
+    # predictions = loaded_model.predict(preprocessed_input_data)
+    # # You might have probabilities, classes, or continuous values depending on the model used
+
+
+
+
+
+     
+def perform_standardization(X_train, X_test):
+    scaler = StandardScaler().fit(X_train)
+    X_train = scaler.transform(X_train)
+    X_test = scaler.transform(X_test)
+    return X_train, X_test, scaler
     
-    df_normal['label'] = 0
-    df_malicious['label'] = 1
-    
-    # Concatenate the dataframes
-    df = pd.concat([df_normal, df_malicious])
-
-    # Shuffle the rows
-    df = df.sample(frac=1).reset_index(drop=True)
-    df.drop('CNAME__-',axis=1,inplace=True)
-    
-    df = df.drop_duplicates(subset=['domain_name'])
-
-    df = df[df['domain_name'].notna() & (df['domain_name'] != '')]
-
-    df = df[df['A__ip_address'].notna()]
-    
-    df = df.drop(['A', 'AAAA', 'MX', 'NS', 'SOA', 'CNAME', 'TXT', 'SRV', 'PTR'], axis=1)
-
-    dataset = []
-    
-    for index, row in df.iterrows():
-      features_row =  generate_features_for_dataset_from_response(row)
-      dataset.append(features_row)
-    
-    dataset_df = pd.DataFrame(dataset)
-
-    dataset_df.to_csv(r'data/generated_dataset_from_dns_response.csv', index=False)
-
-    #####################################
-    
-    #this method takes one row from the dataframe and generates a row of features for it
-def generate_features_for_dataset_from_response(df_series):
-   df = df_series.to_frame().transpose()
-   print(df)
-   merged_dict = {}
-   
-   dict1 = {}
-   dict1 = extract_domain_name_features(df['domain_name'].iloc[0])
-  # print('dict1############\n')
-   #print(dict1)
-   
-   dict2 = {}  
-   dict2 = extract_features_from_response(df)
-  # print('dict3############\n')
-  # print(dict2)
-
-   dict3 = {}
-   dict3 = get_domain_info(df['domain_name'].iloc[0])
-  # print('dict3############\n')
-   #print(dict3)
-
-   merged_dict = {**dict1, **dict2, **dict3}
-  # print(merged_dict)
-   return merged_dict
-  
 if __name__ == "__main__":
     main()

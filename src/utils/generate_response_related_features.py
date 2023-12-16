@@ -3,6 +3,8 @@ import numpy as np
 
 def extract_features_from_response(df):
      features = {}
+
+     features['label'] = df['label'].iloc[0]
       
      features['ipv4_address'] = df['A__ip_address'].iloc[0]
 
