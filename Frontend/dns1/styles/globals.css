@@ -17,9 +17,7 @@ body{
   font-weight: lighter;
   
 }
-.hello{
-   background-image: url("https://res.cloudinary.com/ddtzbznea/image/upload/v1702217594/DataFunnel_sy0wjz.png");
-}
+
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
@@ -28,4 +26,7 @@ body{
 .loader {
   border-top-color:#60b6f0;
   animation: spin 1.5s infinite linear;
+}
+.yo{
+  background: linear-gradient(127.09deg, rgba(6, 11, 40, 0.94) 19.41%, rgba(10, 14, 35, 0.49) 76.65%);
 }
