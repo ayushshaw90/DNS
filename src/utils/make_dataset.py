@@ -2,6 +2,7 @@ import pandas as pd
 from utils.generate_domain_name_features import extract_domain_name_features
 from utils.generate_response_related_features import extract_features_from_response
 from utils.generate_whois_features import get_domain_info
+from utils.dga_domain_name_preprocessor import get_feature_rich_row
 
 def generate_dataset_from_csv_dns_response():
 
