@@ -14,7 +14,7 @@ const Sidebar=()=>{
         <Link href="/">
           <h1 className="text-white text-lg hover:text-blue-500"><FontAwesomeIcon icon={faChartBar} size="1x" />  Tables</h1>
         </Link>
-        <Link href="/">
+        <Link href="/domaindetails">
           <h1 className="text-white text-lg hover:text-blue-500"><FontAwesomeIcon icon={faInfoCircle} size="1x" /> Domain Details</h1>
         </Link>
     </div>
