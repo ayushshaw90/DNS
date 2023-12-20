@@ -11,8 +11,8 @@ const Sidebar=()=>{
         <Link href="/">
           <h1 className="text-white text-lg hover:text-blue-500"><FontAwesomeIcon icon={faHome} size="1x" />  Dashboard</h1>
         </Link>
-        <Link href="/">
-          <h1 className="text-white text-lg hover:text-blue-500"><FontAwesomeIcon icon={faChartBar} size="1x" />  Tables</h1>
+        <Link href="/pcap">
+          <h1 className="text-white text-lg hover:text-blue-500"><FontAwesomeIcon icon={faChartBar} size="1x" /> PCAP</h1>
         </Link>
         <Link href="/domaindetails">
           <h1 className="text-white text-lg hover:text-blue-500"><FontAwesomeIcon icon={faInfoCircle} size="1x" /> Domain Details</h1>

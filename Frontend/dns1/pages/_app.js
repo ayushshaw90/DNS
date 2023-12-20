@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }) {
   return (
 
     <Layout>
-      <div className={" scroll-behavior-smooth" }>
+      <div className={"pl-48 pr-8 pt-4 scroll-behavior-smooth" }>
         
         <Component {...pageProps}/>
         
